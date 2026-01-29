@@ -7,7 +7,7 @@
       "templateId": "2025-08-18T14:27:09.205Z2nqu2su",
       "data": {
         "2025-08-18T14:27:09.205Zk07y9yo": "Rationale",
-        "2025-08-18T14:27:09.205Zvjv2ggy": "The sample database is structured as a tree to allow complete flexibility in the types of process flows that can be logged.\nEach entry is called a <i>Node</i> and to each Node is associated a <i>Template</i>. Nodes can be freely moved up and down or across the tree hierarchy to represent correctly the flow of operations.\nEach template contains specific fields which may be the parameters of a process, images or files, text, tables, graphs...\n\nThe example groups samples by location but they can be organized however it seems convenient, templates can be added and improved for specific use cases.\n\n<i>Clone nodes</i> are used in the example with two purposes:\n\n1. A single process acting on multiple samples: node://mky8j5ha-0qkz7trxb\n2. A dice, being at the same time a descendant of a sample and a sample per se: node://mky8j5ha-4b187zpmg\n\nUsage of clones in this way is strongly encouraged."
+        "2025-08-18T14:27:09.205Zvjv2ggy": "The sample database is structured as a tree to allow complete flexibility in the types of process flows that can be logged.\nEach entry is called a <i>Node</i> and to each Node is associated a <i>Template</i>. Nodes can be freely moved up and down or across the tree hierarchy to represent correctly the flow of operations.\nEach template contains specific fields which may be the parameters of a process, images or files, text, tables, graphs...\n\nThe example groups samples by location but they can be organized however it seems convenient, templates can be added and improved for specific use cases."
       },
       "isStarred": false,
       "userId": "68a9fb395a866b17c663d971",
@@ -20,6 +20,23 @@
       ],
       "createdAt": "2026-01-29T20:57:43.491Z",
       "updatedAt": "2026-01-29T21:05:10.265Z"
+    },
+    {
+      "name": "Usage of clones",
+      "templateId": "2025-08-18T14:27:09.205Z2nqu2su",
+      "data": {
+        "2025-08-18T14:27:09.205Zvjv2ggy": "<i>Clone nodes</i> are used in the example with two purposes:\n\n1. A single process acting on multiple samples: node://mky8j5ha-0qkz7trxb\n2. A dice, being at the same time a descendant of a sample and a sample per se: node://mky8j5ha-4b187zpmg\n\nUsage of clones in this way is strongly encouraged.",
+        "2025-08-18T14:27:09.205Zk07y9yo": "Usage of clones"
+      },
+      "userId": "68a9fb395a866b17c663d971",
+      "treeId": "697a381ec724df111a049a37",
+      "parentIds": [
+        "2026-01-29T20:57:43.490Z"
+      ],
+      "order": [
+        0
+      ],
+      "id": "mkzy9dop-splpry3hb"
     },
     {
       "id": "mky8j5ha-cch9qsu51",
@@ -1219,6 +1236,8 @@
       "name": "Deposition",
       "icon": "CirclePlus",
       "color": "#10B981",
+      "nameTemplate": "{Stack} Deposition",
+      "bodyTemplate": "{Date}",
       "fields": [
         {
           "id": "2026-01-10T09:17:05.423Z0.36338770983813173",
@@ -1233,14 +1252,13 @@
           "options": []
         }
       ],
-      "nameTemplate": "{Stack} Deposition",
-      "bodyTemplate": "{Date}",
       "conditionalRules": [],
       "preferredChildTemplates": [
-        "2025-08-18T14:27:09.205Z15c9ek7",
-        "2025-08-18T14:27:09.205Zavevifg",
+        "mkwr1toj-0dpdcgnlp",
         "2025-08-18T14:27:09.205Zt08pzxx",
-        "mkgs17y4-vjuhfcwui"
+        "mkgs17y4-vjuhfcwui",
+        "2025-08-18T14:27:09.205Z15c9ek7",
+        "2025-08-18T14:27:09.205Zavevifg"
       ]
     },
     {
@@ -1678,7 +1696,9 @@
       "id": "2025-08-18T14:27:09.205Z15c9ek7",
       "name": "Remote Plasma Sputtering",
       "icon": "CirclePlus",
-      "color": "#B32DB3",
+      "color": "#b950b9",
+      "nameTemplate": "Remote Plasma Sputtering",
+      "bodyTemplate": "",
       "fields": [
         {
           "id": "2025-08-18T14:27:09.205Z2wkrex2",
@@ -1799,8 +1819,6 @@
           "options": []
         }
       ],
-      "nameTemplate": "Remote Plasma Sputtering",
-      "bodyTemplate": "",
       "conditionalRules": [],
       "preferredChildTemplates": []
     },
@@ -1916,7 +1934,9 @@
       "id": "mkwr1toj-0dpdcgnlp",
       "name": "Sputtering",
       "icon": "CirclePlus",
-      "color": "#FF6F00",
+      "color": "#53d0aa",
+      "nameTemplate": "Sputtering",
+      "bodyTemplate": "",
       "fields": [
         {
           "id": "2025-10-27T09:01:04.834Z0.5646942305978848",
@@ -1996,8 +2016,6 @@
           "columnType": "number"
         }
       ],
-      "nameTemplate": "Sputtering",
-      "bodyTemplate": "",
       "conditionalRules": [],
       "preferredChildTemplates": []
     }
