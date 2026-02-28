@@ -1,5 +1,5 @@
 {
-  "title": "Sample database",
+  "title": "🔬Sample database",
   "nodes": [
     {
       "id": "mle0b7yu-oc0ym1x5o",
@@ -431,7 +431,7 @@
         5
       ],
       "createdAt": "2026-02-08T17:18:09.138Z",
-      "updatedAt": "2026-02-08T17:18:09.138Z"
+      "updatedAt": "2026-02-28T08:16:23.922Z"
     },
     {
       "id": "mle0b7yu-outo7d774",
@@ -549,7 +549,7 @@
         5
       ],
       "createdAt": "2026-02-08T17:18:09.138Z",
-      "updatedAt": "2026-02-08T17:18:09.138Z"
+      "updatedAt": "2026-02-28T08:16:23.922Z"
     },
     {
       "id": "mle0b7yu-q7xzc6jkp",
@@ -653,7 +653,7 @@
         3
       ],
       "createdAt": "2026-02-08T17:18:09.138Z",
-      "updatedAt": "2026-02-08T17:18:09.138Z"
+      "updatedAt": "2026-02-28T08:16:41.491Z"
     },
     {
       "id": "mle0b7yu-e8jq5ohqy",
@@ -727,7 +727,7 @@
         8
       ],
       "createdAt": "2026-02-08T17:18:09.138Z",
-      "updatedAt": "2026-02-08T17:18:09.138Z"
+      "updatedAt": "2026-02-28T08:16:23.922Z"
     },
     {
       "id": "mle0b7yu-06vdguc3u",
@@ -1581,8 +1581,6 @@
       "name": "Wet process",
       "icon": "Droplet",
       "color": "#1496C9",
-      "nameTemplate": "{Type} {Chemical} {Time} {Time unit} {Temperature}",
-      "bodyTemplate": "",
       "fields": [
         {
           "id": "2025-08-18T14:27:09.205Z19elh19",
@@ -1626,6 +1624,8 @@
           "postfix": " °C"
         }
       ],
+      "nameTemplate": "{Type} {Chemical} {Time} {Time unit} {Temperature}",
+      "bodyTemplate": "",
       "conditionalRules": [
         {
           "id": "2025-08-18T14:27:09.205Z2grjgb6",
