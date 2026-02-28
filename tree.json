@@ -1,8 +1,8 @@
 {
-  "title": "🔬Sample database",
+  "title": "Sample database",
   "nodes": [
     {
-      "id": "ml85yaxz-04th8ljej",
+      "id": "mle0b7yu-oc0ym1x5o",
       "name": "Rationale",
       "templateId": "2025-08-18T14:27:09.205Z2nqu2su",
       "data": {
@@ -10,38 +10,38 @@
         "2025-08-18T14:27:09.205Zvjv2ggy": "The sample database is structured as a tree to allow complete flexibility in the types of process flows that can be logged.\nEvery entry is a <i>Node</i> its content is defined by a <i>Template</i>. Nodes can be freely moved up and down or across the tree hierarchy to represent correctly the flow of operations.\nEach template contains specific fields which may be the parameters of a process, images or files, text, tables, graphs...\n\nThe example groups samples by location but they can be organized however it seems convenient, templates can be added and improved for specific use cases."
       },
       "isStarred": false,
-      "userId": "68a99c3dde9b3f9a34859ed8",
-      "treeId": "698361279c109145180a2232",
+      "userId": "68a9fb395a866b17c663d971",
+      "treeId": "6988c550163aa8848ee96bf5",
       "parentIds": [],
       "order": [
         0
       ],
-      "createdAt": "2026-02-04T15:09:28.227Z",
-      "updatedAt": "2026-02-04T15:09:28.227Z"
+      "createdAt": "2026-02-08T17:18:09.138Z",
+      "updatedAt": "2026-02-08T17:18:09.138Z"
     },
     {
-      "id": "ml85yaxz-y5zedhr4d",
+      "id": "mle0b7yu-2zg0uqjof",
       "name": "Usage of clones",
       "templateId": "2025-08-18T14:27:09.205Z2nqu2su",
       "data": {
-        "2025-08-18T14:27:09.205Zvjv2ggy": "<i>Clone nodes</i> are used in the example with two purposes:\n\n1. A single process acting on multiple samples: node://ml85yaxz-jud5ow87l\n2. A dice, being at the same time a descendant of a sample and a sample per se: node://ml85yaxz-dh8ywcn14\n\nUsage of clones in this way is strongly encouraged.",
+        "2025-08-18T14:27:09.205Zvjv2ggy": "<i>Clone nodes</i> are used in the example with two purposes:\n\n1. A single process acting on multiple samples: node://mle0b7yu-4980m8ut8\n2. A dice, being at the same time a descendant of a sample and a sample per se: node://mle0b7yu-fisbs127p\n\nUsage of clones in this way is strongly encouraged.",
         "2025-08-18T14:27:09.205Zk07y9yo": "Usage of clones",
         "2025-08-18T14:27:09.205Z0qxilez": "Info"
       },
       "isStarred": false,
-      "userId": "68a99c3dde9b3f9a34859ed8",
-      "treeId": "698361279c109145180a2232",
+      "userId": "68a9fb395a866b17c663d971",
+      "treeId": "6988c550163aa8848ee96bf5",
       "parentIds": [
-        "ml85yaxz-04th8ljej"
+        "mle0b7yu-oc0ym1x5o"
       ],
       "order": [
         0
       ],
-      "createdAt": "2026-02-04T15:09:28.227Z",
-      "updatedAt": "2026-02-04T15:09:28.227Z"
+      "createdAt": "2026-02-08T17:18:09.138Z",
+      "updatedAt": "2026-02-08T17:18:09.138Z"
     },
     {
-      "id": "ml9z3to2-3a85hpr9x",
+      "id": "mle0b7yu-wjcz41538",
       "name": "Generic notes",
       "templateId": "2025-08-18T14:27:09.205Z2nqu2su",
       "data": {
@@ -67,37 +67,37 @@
         "2025-08-18T14:27:09.205Zvjv2ggy": "Note like this one can be used for comments, warnings, adding pictures or files, make checklists..."
       },
       "isStarred": false,
-      "userId": "68a99c3dde9b3f9a34859ed8",
-      "treeId": "698361279c109145180a2232",
+      "userId": "68a9fb395a866b17c663d971",
+      "treeId": "6988c550163aa8848ee96bf5",
       "parentIds": [
-        "ml85yaxz-04th8ljej"
+        "mle0b7yu-oc0ym1x5o"
       ],
       "order": [
         1
       ],
-      "createdAt": "2026-02-05T21:33:19.731Z",
-      "updatedAt": "2026-02-07T10:46:14.310Z"
+      "createdAt": "2026-02-08T17:18:09.138Z",
+      "updatedAt": "2026-02-08T17:18:09.138Z"
     },
     {
-      "id": "ml85yaxz-jlfb9247w",
+      "id": "mle0b7yu-w8ov3vzke",
       "name": "Wafer Box",
       "templateId": "2025-08-18T14:27:09.205Z2uet3xb",
       "data": {
         "2025-08-18T14:27:09.205Zcbx5ubp": "Wafer Box"
       },
       "isStarred": false,
-      "userId": "68a99c3dde9b3f9a34859ed8",
-      "treeId": "698361279c109145180a2232",
+      "userId": "68a9fb395a866b17c663d971",
+      "treeId": "6988c550163aa8848ee96bf5",
       "parentIds": [],
       "order": [
         1,
         -1
       ],
-      "createdAt": "2026-02-04T15:09:28.227Z",
-      "updatedAt": "2026-02-04T15:09:28.227Z"
+      "createdAt": "2026-02-08T17:18:09.138Z",
+      "updatedAt": "2026-02-08T17:18:09.138Z"
     },
     {
-      "id": "ml85yaxz-hulgwqw5w",
+      "id": "mle0b7yu-htg1fr4mc",
       "name": "Sample1",
       "templateId": "2025-08-18T14:27:09.205Zbm4wrn4",
       "data": {
@@ -107,19 +107,19 @@
         "2025-08-18T14:27:09.205Zdf8re2o": "Silicon 100"
       },
       "isStarred": false,
-      "userId": "68a99c3dde9b3f9a34859ed8",
-      "treeId": "698361279c109145180a2232",
+      "userId": "68a9fb395a866b17c663d971",
+      "treeId": "6988c550163aa8848ee96bf5",
       "parentIds": [
-        "ml85yaxz-jlfb9247w"
+        "mle0b7yu-w8ov3vzke"
       ],
       "order": [
         0
       ],
-      "createdAt": "2026-02-04T15:09:28.227Z",
-      "updatedAt": "2026-02-04T20:35:57.690Z"
+      "createdAt": "2026-02-08T17:18:09.138Z",
+      "updatedAt": "2026-02-08T17:18:09.138Z"
     },
     {
-      "id": "ml85yaxz-jud5ow87l",
+      "id": "mle0b7yu-4980m8ut8",
       "name": "SiO2/NiFe Deposition",
       "templateId": "2026-01-09T14:22:29.950Z",
       "data": {
@@ -127,21 +127,21 @@
         "2026-01-10T09:17:05.423Z0.36338770983813173": "2026-01-08T23:00:00.000Z"
       },
       "isStarred": false,
-      "userId": "68a99c3dde9b3f9a34859ed8",
-      "treeId": "698361279c109145180a2232",
+      "userId": "68a9fb395a866b17c663d971",
+      "treeId": "6988c550163aa8848ee96bf5",
       "parentIds": [
-        "ml85yaxz-iwsdlaj1n",
-        "ml85yaxz-hulgwqw5w"
+        "mle0b7yu-qjlok9i9u",
+        "mle0b7yu-htg1fr4mc"
       ],
       "order": [
         0,
         0
       ],
-      "createdAt": "2026-02-04T15:09:28.227Z",
-      "updatedAt": "2026-02-04T20:51:03.531Z"
+      "createdAt": "2026-02-08T17:18:09.138Z",
+      "updatedAt": "2026-02-08T17:18:09.138Z"
     },
     {
-      "id": "ml85yaxz-2r14coica",
+      "id": "mle0b7yu-ro2rayedg",
       "name": "E-beam Evaporation",
       "templateId": "2025-08-18T14:27:09.205Zt08pzxx",
       "data": {
@@ -160,19 +160,19 @@
         ]
       },
       "isStarred": false,
-      "userId": "68a99c3dde9b3f9a34859ed8",
-      "treeId": "698361279c109145180a2232",
+      "userId": "68a9fb395a866b17c663d971",
+      "treeId": "6988c550163aa8848ee96bf5",
       "parentIds": [
-        "ml85yaxz-jud5ow87l"
+        "mle0b7yu-4980m8ut8"
       ],
       "order": [
         0
       ],
-      "createdAt": "2026-02-04T15:09:28.227Z",
-      "updatedAt": "2026-02-04T15:09:28.227Z"
+      "createdAt": "2026-02-08T17:18:09.138Z",
+      "updatedAt": "2026-02-08T17:18:09.138Z"
     },
     {
-      "id": "ml85yaxz-mq3u9ssxn",
+      "id": "mle0b7yu-x0nbrfw41",
       "name": "Profilometry",
       "templateId": "2025-08-18T14:27:09.205Zql33x9g",
       "data": {
@@ -180,19 +180,19 @@
         "2025-08-18T14:27:09.205Zp9brlh4": "Profilometry"
       },
       "isStarred": false,
-      "userId": "68a99c3dde9b3f9a34859ed8",
-      "treeId": "698361279c109145180a2232",
+      "userId": "68a9fb395a866b17c663d971",
+      "treeId": "6988c550163aa8848ee96bf5",
       "parentIds": [
-        "ml85yaxz-hulgwqw5w"
+        "mle0b7yu-htg1fr4mc"
       ],
       "order": [
         1
       ],
-      "createdAt": "2026-02-04T15:09:28.227Z",
-      "updatedAt": "2026-02-04T20:51:03.531Z"
+      "createdAt": "2026-02-08T17:18:09.138Z",
+      "updatedAt": "2026-02-08T17:18:09.138Z"
     },
     {
-      "id": "ml85yaxz-okfo10axw",
+      "id": "mle0b7yu-td82jpm0u",
       "name": "Av. Thickness 90 nm",
       "templateId": "2025-08-18T14:27:09.205Zspy61an",
       "data": {
@@ -201,19 +201,19 @@
         "2025-08-18T14:27:09.205Zqiblx0r": "nm"
       },
       "isStarred": false,
-      "userId": "68a99c3dde9b3f9a34859ed8",
-      "treeId": "698361279c109145180a2232",
+      "userId": "68a9fb395a866b17c663d971",
+      "treeId": "6988c550163aa8848ee96bf5",
       "parentIds": [
-        "ml85yaxz-mq3u9ssxn"
+        "mle0b7yu-x0nbrfw41"
       ],
       "order": [
         0
       ],
-      "createdAt": "2026-02-04T15:09:28.227Z",
-      "updatedAt": "2026-02-04T15:09:28.227Z"
+      "createdAt": "2026-02-08T17:18:09.138Z",
+      "updatedAt": "2026-02-08T17:18:09.138Z"
     },
     {
-      "id": "ml85yaxz-sphvn2brg",
+      "id": "mle0b7yu-ctp51e961",
       "name": "Uniformity 0.5 %",
       "templateId": "2025-08-18T14:27:09.205Zspy61an",
       "data": {
@@ -222,19 +222,19 @@
         "2025-08-18T14:27:09.205Zqiblx0r": "%"
       },
       "isStarred": false,
-      "userId": "68a99c3dde9b3f9a34859ed8",
-      "treeId": "698361279c109145180a2232",
+      "userId": "68a9fb395a866b17c663d971",
+      "treeId": "6988c550163aa8848ee96bf5",
       "parentIds": [
-        "ml85yaxz-mq3u9ssxn"
+        "mle0b7yu-x0nbrfw41"
       ],
       "order": [
         1
       ],
-      "createdAt": "2026-02-04T15:09:28.227Z",
-      "updatedAt": "2026-02-04T15:09:28.227Z"
+      "createdAt": "2026-02-08T17:18:09.138Z",
+      "updatedAt": "2026-02-08T17:18:09.138Z"
     },
     {
-      "id": "ml85yaxz-i19dyzex9",
+      "id": "mle0b7yu-yr5927cbv",
       "name": "Thickness",
       "templateId": "mk81yf86-6m9saygqd",
       "data": {
@@ -275,19 +275,19 @@
         }
       },
       "isStarred": false,
-      "userId": "68a99c3dde9b3f9a34859ed8",
-      "treeId": "698361279c109145180a2232",
+      "userId": "68a9fb395a866b17c663d971",
+      "treeId": "6988c550163aa8848ee96bf5",
       "parentIds": [
-        "ml85yaxz-mq3u9ssxn"
+        "mle0b7yu-x0nbrfw41"
       ],
       "order": [
         2
       ],
-      "createdAt": "2026-02-04T15:09:28.227Z",
-      "updatedAt": "2026-02-04T15:09:28.227Z"
+      "createdAt": "2026-02-08T17:18:09.138Z",
+      "updatedAt": "2026-02-08T17:18:09.138Z"
     },
     {
-      "id": "ml85yaxz-fzsmwoaba",
+      "id": "mle0b7yu-vd9mja967",
       "name": "Optical Lithography",
       "templateId": "2026-01-09T12:05:51.359Z",
       "data": {
@@ -295,19 +295,19 @@
         "2026-01-10T09:17:50.895Z0.6273317140214377": "2026-01-10T23:00:00.000Z"
       },
       "isStarred": false,
-      "userId": "68a99c3dde9b3f9a34859ed8",
-      "treeId": "698361279c109145180a2232",
+      "userId": "68a9fb395a866b17c663d971",
+      "treeId": "6988c550163aa8848ee96bf5",
       "parentIds": [
-        "ml85yaxz-hulgwqw5w"
+        "mle0b7yu-htg1fr4mc"
       ],
       "order": [
         2
       ],
-      "createdAt": "2026-02-04T15:09:28.227Z",
-      "updatedAt": "2026-02-04T20:49:18.556Z"
+      "createdAt": "2026-02-08T17:18:09.138Z",
+      "updatedAt": "2026-02-08T17:18:09.138Z"
     },
     {
-      "id": "ml85yaxz-6f2kb5x80",
+      "id": "mle0b7yu-0tx3j959e",
       "name": "HMDS priming",
       "templateId": "2025-08-18T14:27:09.205Z2nqu2su",
       "data": {
@@ -315,19 +315,19 @@
         "2025-08-18T14:27:09.205Zk07y9yo": "HMDS priming"
       },
       "isStarred": false,
-      "userId": "68a99c3dde9b3f9a34859ed8",
-      "treeId": "698361279c109145180a2232",
+      "userId": "68a9fb395a866b17c663d971",
+      "treeId": "6988c550163aa8848ee96bf5",
       "parentIds": [
-        "ml85yaxz-fzsmwoaba"
+        "mle0b7yu-vd9mja967"
       ],
       "order": [
         0
       ],
-      "createdAt": "2026-02-04T15:09:28.227Z",
-      "updatedAt": "2026-02-04T15:09:28.227Z"
+      "createdAt": "2026-02-08T17:18:09.138Z",
+      "updatedAt": "2026-02-08T17:18:09.138Z"
     },
     {
-      "id": "ml85yaxz-o50qgjke4",
+      "id": "mle0b7yu-ydflymoyc",
       "name": "Spin coating AZ15nXT 4000 rpm",
       "templateId": "2025-08-18T14:27:09.205Zavevifg",
       "data": {
@@ -337,19 +337,19 @@
         "2025-08-18T14:27:09.205Ztc4fy8d": "60"
       },
       "isStarred": false,
-      "userId": "68a99c3dde9b3f9a34859ed8",
-      "treeId": "698361279c109145180a2232",
+      "userId": "68a9fb395a866b17c663d971",
+      "treeId": "6988c550163aa8848ee96bf5",
       "parentIds": [
-        "ml85yaxz-fzsmwoaba"
+        "mle0b7yu-vd9mja967"
       ],
       "order": [
         1
       ],
-      "createdAt": "2026-02-04T15:09:28.227Z",
-      "updatedAt": "2026-02-04T15:09:28.227Z"
+      "createdAt": "2026-02-08T17:18:09.138Z",
+      "updatedAt": "2026-02-08T17:18:09.138Z"
     },
     {
-      "id": "ml85yaxz-8whotqe96",
+      "id": "mle0b7yu-xd56g106p",
       "name": "Bake 120 °C 120 s",
       "templateId": "2025-08-18T14:27:09.205Z7selmn3",
       "data": {
@@ -358,19 +358,19 @@
         "2025-08-18T14:27:09.205Zmuuetk6": "120"
       },
       "isStarred": false,
-      "userId": "68a99c3dde9b3f9a34859ed8",
-      "treeId": "698361279c109145180a2232",
+      "userId": "68a9fb395a866b17c663d971",
+      "treeId": "6988c550163aa8848ee96bf5",
       "parentIds": [
-        "ml85yaxz-fzsmwoaba"
+        "mle0b7yu-vd9mja967"
       ],
       "order": [
         2
       ],
-      "createdAt": "2026-02-04T15:09:28.227Z",
-      "updatedAt": "2026-02-04T15:09:28.227Z"
+      "createdAt": "2026-02-08T17:18:09.138Z",
+      "updatedAt": "2026-02-08T17:18:09.138Z"
     },
     {
-      "id": "ml85yaxz-iit9if9x9",
+      "id": "mle0b7yu-t7t2arkx0",
       "name": "Exposure 120mW 50%",
       "templateId": "mk8ueoq8-i362m1e4d",
       "data": {
@@ -379,19 +379,19 @@
         "2026-01-10T21:54:49.016Z0.12472844103155944": "50%"
       },
       "isStarred": false,
-      "userId": "68a99c3dde9b3f9a34859ed8",
-      "treeId": "698361279c109145180a2232",
+      "userId": "68a9fb395a866b17c663d971",
+      "treeId": "6988c550163aa8848ee96bf5",
       "parentIds": [
-        "ml85yaxz-fzsmwoaba"
+        "mle0b7yu-vd9mja967"
       ],
       "order": [
         3
       ],
-      "createdAt": "2026-02-04T15:09:28.227Z",
-      "updatedAt": "2026-02-04T15:09:28.227Z"
+      "createdAt": "2026-02-08T17:18:09.138Z",
+      "updatedAt": "2026-02-08T17:18:09.138Z"
     },
     {
-      "id": "ml85yaxz-yjjndy1yp",
+      "id": "mle0b7yu-e2xbrachr",
       "name": "Bake 120 °C 120 s",
       "templateId": "2025-08-18T14:27:09.205Z7selmn3",
       "data": {
@@ -400,59 +400,60 @@
         "2025-08-18T14:27:09.205Zmuuetk6": "120"
       },
       "isStarred": false,
-      "userId": "68a99c3dde9b3f9a34859ed8",
-      "treeId": "698361279c109145180a2232",
+      "userId": "68a9fb395a866b17c663d971",
+      "treeId": "6988c550163aa8848ee96bf5",
       "parentIds": [
-        "ml85yaxz-fzsmwoaba"
+        "mle0b7yu-vd9mja967"
       ],
       "order": [
         4
       ],
-      "createdAt": "2026-02-04T15:09:28.227Z",
-      "updatedAt": "2026-02-04T15:09:28.227Z"
+      "createdAt": "2026-02-08T17:18:09.138Z",
+      "updatedAt": "2026-02-08T17:18:09.138Z"
     },
     {
-      "id": "ml85yaxz-rdrphlual",
+      "id": "mle0b7yu-b0r7jnudk",
       "name": "Development AZ726 60 s",
       "templateId": "2025-08-18T14:27:09.205Z8emtt96",
       "data": {
         "2025-08-18T14:27:09.205Z19elh19": "Development",
         "2025-08-18T14:27:09.205Zioyu81t": "AZ726",
-        "2025-08-18T14:27:09.205Zy44o4qe": "60"
+        "2025-08-18T14:27:09.205Zy44o4qe": "60",
+        "2026-02-28T08:13:31.721Z0.4679334447442006": "s"
       },
       "isStarred": false,
-      "userId": "68a99c3dde9b3f9a34859ed8",
-      "treeId": "698361279c109145180a2232",
+      "userId": "68a9fb395a866b17c663d971",
+      "treeId": "6988c550163aa8848ee96bf5",
       "parentIds": [
-        "ml85yaxz-fzsmwoaba"
+        "mle0b7yu-vd9mja967"
       ],
       "order": [
         5
       ],
-      "createdAt": "2026-02-04T15:09:28.227Z",
-      "updatedAt": "2026-02-04T15:09:28.227Z"
+      "createdAt": "2026-02-08T17:18:09.138Z",
+      "updatedAt": "2026-02-08T17:18:09.138Z"
     },
     {
-      "id": "ml85yaxz-2a7ft4vf5",
+      "id": "mle0b7yu-outo7d774",
       "name": "Microscopy",
       "templateId": "2025-08-18T14:27:09.205Zql33x9g",
       "data": {
         "2025-08-18T14:27:09.205Zp9brlh4": "Microscopy"
       },
       "isStarred": false,
-      "userId": "68a99c3dde9b3f9a34859ed8",
-      "treeId": "698361279c109145180a2232",
+      "userId": "68a9fb395a866b17c663d971",
+      "treeId": "6988c550163aa8848ee96bf5",
       "parentIds": [
-        "ml85yaxz-hulgwqw5w"
+        "mle0b7yu-htg1fr4mc"
       ],
       "order": [
         3
       ],
-      "createdAt": "2026-02-04T15:09:28.227Z",
-      "updatedAt": "2026-02-04T15:09:28.227Z"
+      "createdAt": "2026-02-08T17:18:09.138Z",
+      "updatedAt": "2026-02-08T17:18:09.138Z"
     },
     {
-      "id": "ml85yaxz-q80dz6f3q",
+      "id": "mle0b7yu-9qvnfnibx",
       "name": "CD",
       "templateId": "2026-01-09T15:08:30.384Z",
       "data": {
@@ -474,19 +475,19 @@
         "2026-01-09T15:06:59.229Z0.6918932477200717": "CD"
       },
       "isStarred": false,
-      "userId": "68a99c3dde9b3f9a34859ed8",
-      "treeId": "698361279c109145180a2232",
+      "userId": "68a9fb395a866b17c663d971",
+      "treeId": "6988c550163aa8848ee96bf5",
       "parentIds": [
-        "ml85yaxz-2a7ft4vf5"
+        "mle0b7yu-outo7d774"
       ],
       "order": [
         0
       ],
-      "createdAt": "2026-02-04T15:09:28.227Z",
-      "updatedAt": "2026-02-04T15:09:28.227Z"
+      "createdAt": "2026-02-08T17:18:09.138Z",
+      "updatedAt": "2026-02-08T17:18:09.138Z"
     },
     {
-      "id": "ml85yaxz-1cp1td6yg",
+      "id": "mle0b7yu-mo66b24dr",
       "name": "NiFe Etch",
       "templateId": "mk83hdgv-arjcokuu2",
       "data": {
@@ -494,19 +495,19 @@
         "2025-08-18T14:27:09.205Zwj4znau": "NiFe"
       },
       "isStarred": false,
-      "userId": "68a99c3dde9b3f9a34859ed8",
-      "treeId": "698361279c109145180a2232",
+      "userId": "68a9fb395a866b17c663d971",
+      "treeId": "6988c550163aa8848ee96bf5",
       "parentIds": [
-        "ml85yaxz-hulgwqw5w"
+        "mle0b7yu-htg1fr4mc"
       ],
       "order": [
         4
       ],
-      "createdAt": "2026-02-04T15:09:28.227Z",
-      "updatedAt": "2026-02-04T15:09:28.227Z"
+      "createdAt": "2026-02-08T17:18:09.138Z",
+      "updatedAt": "2026-02-08T17:18:09.138Z"
     },
     {
-      "id": "ml85yaxz-yzdybp2yr",
+      "id": "mle0b7yu-2n0do1bed",
       "name": "IBE (200V, 100mA, 30°) 10min",
       "templateId": "2026-01-09T15:57:17.841Z",
       "data": {
@@ -516,60 +517,61 @@
         "2026-01-09T15:56:06.999Z0.6126820687427298": "10"
       },
       "isStarred": false,
-      "userId": "68a99c3dde9b3f9a34859ed8",
-      "treeId": "698361279c109145180a2232",
+      "userId": "68a9fb395a866b17c663d971",
+      "treeId": "6988c550163aa8848ee96bf5",
       "parentIds": [
-        "ml85yaxz-1cp1td6yg"
+        "mle0b7yu-mo66b24dr"
       ],
       "order": [
         0
       ],
-      "createdAt": "2026-02-04T15:09:28.227Z",
-      "updatedAt": "2026-02-04T15:09:28.227Z"
+      "createdAt": "2026-02-08T17:18:09.138Z",
+      "updatedAt": "2026-02-08T17:18:09.138Z"
     },
     {
-      "id": "ml85yaxz-wh1l7yavt",
-      "name": "Resist removal AZ Kwik Strip 7200 s 70 °C",
+      "id": "mle0b7yu-qhly72scp",
+      "name": "Resist removal AZ Kwik Strip 2 h 70 °C",
       "templateId": "2025-08-18T14:27:09.205Z8emtt96",
       "data": {
         "2025-08-18T14:27:09.205Z19elh19": "Resist removal",
         "2025-08-18T14:27:09.205Zioyu81t": "AZ Kwik Strip",
-        "2025-08-18T14:27:09.205Zy44o4qe": "7200",
-        "2025-08-18T14:27:09.205Zs41rq2c": "70"
+        "2025-08-18T14:27:09.205Zy44o4qe": "2",
+        "2025-08-18T14:27:09.205Zs41rq2c": "70",
+        "2026-02-28T08:13:31.721Z0.4679334447442006": "h"
       },
       "isStarred": false,
-      "userId": "68a99c3dde9b3f9a34859ed8",
-      "treeId": "698361279c109145180a2232",
+      "userId": "68a9fb395a866b17c663d971",
+      "treeId": "6988c550163aa8848ee96bf5",
       "parentIds": [
-        "ml85yaxz-hulgwqw5w"
+        "mle0b7yu-htg1fr4mc"
       ],
       "order": [
         5
       ],
-      "createdAt": "2026-02-04T15:09:28.227Z",
-      "updatedAt": "2026-02-04T15:09:28.227Z"
+      "createdAt": "2026-02-08T17:18:09.138Z",
+      "updatedAt": "2026-02-08T17:18:09.138Z"
     },
     {
-      "id": "ml85yaxz-dbly59kwl",
+      "id": "mle0b7yu-q7xzc6jkp",
       "name": "Optical Lithography",
       "templateId": "2026-01-09T12:05:51.359Z",
       "data": {
         "2026-01-09T14:40:21.052Z0.30118703822926485": "Optical"
       },
       "isStarred": false,
-      "userId": "68a99c3dde9b3f9a34859ed8",
-      "treeId": "698361279c109145180a2232",
+      "userId": "68a9fb395a866b17c663d971",
+      "treeId": "6988c550163aa8848ee96bf5",
       "parentIds": [
-        "ml85yaxz-hulgwqw5w"
+        "mle0b7yu-htg1fr4mc"
       ],
       "order": [
         6
       ],
-      "createdAt": "2026-02-04T15:09:28.227Z",
-      "updatedAt": "2026-02-04T15:09:28.227Z"
+      "createdAt": "2026-02-08T17:18:09.138Z",
+      "updatedAt": "2026-02-08T17:18:09.138Z"
     },
     {
-      "id": "ml85yaxz-xc32aw62i",
+      "id": "mle0b7yu-lstompm6g",
       "name": "Spin coating AZ5214E 4000 rpm",
       "templateId": "2025-08-18T14:27:09.205Zavevifg",
       "data": {
@@ -579,19 +581,19 @@
         "2025-08-18T14:27:09.205Ztc4fy8d": "60"
       },
       "isStarred": false,
-      "userId": "68a99c3dde9b3f9a34859ed8",
-      "treeId": "698361279c109145180a2232",
+      "userId": "68a9fb395a866b17c663d971",
+      "treeId": "6988c550163aa8848ee96bf5",
       "parentIds": [
-        "ml85yaxz-dbly59kwl"
+        "mle0b7yu-q7xzc6jkp"
       ],
       "order": [
         0
       ],
-      "createdAt": "2026-02-04T15:09:28.227Z",
-      "updatedAt": "2026-02-04T15:09:28.227Z"
+      "createdAt": "2026-02-08T17:18:09.138Z",
+      "updatedAt": "2026-02-08T17:18:09.138Z"
     },
     {
-      "id": "ml85yaxz-j316v1mee",
+      "id": "mle0b7yu-2q3nwvk0p",
       "name": "Bake 90 °C 110 s",
       "templateId": "2025-08-18T14:27:09.205Z7selmn3",
       "data": {
@@ -600,19 +602,19 @@
         "2025-08-18T14:27:09.205Zmuuetk6": "110"
       },
       "isStarred": false,
-      "userId": "68a99c3dde9b3f9a34859ed8",
-      "treeId": "698361279c109145180a2232",
+      "userId": "68a9fb395a866b17c663d971",
+      "treeId": "6988c550163aa8848ee96bf5",
       "parentIds": [
-        "ml85yaxz-dbly59kwl"
+        "mle0b7yu-q7xzc6jkp"
       ],
       "order": [
         1
       ],
-      "createdAt": "2026-02-04T15:09:28.227Z",
-      "updatedAt": "2026-02-04T15:09:28.227Z"
+      "createdAt": "2026-02-08T17:18:09.138Z",
+      "updatedAt": "2026-02-08T17:18:09.138Z"
     },
     {
-      "id": "ml85yaxz-kzgqadxdl",
+      "id": "mle0b7yu-m5wpxl3zf",
       "name": "Exposure 260mJ/cm^2",
       "templateId": "2026-01-09T15:45:54.280Z",
       "data": {
@@ -620,40 +622,41 @@
         "2026-01-09T15:44:48.327Z0.7312514064177615": "-2"
       },
       "isStarred": false,
-      "userId": "68a99c3dde9b3f9a34859ed8",
-      "treeId": "698361279c109145180a2232",
+      "userId": "68a9fb395a866b17c663d971",
+      "treeId": "6988c550163aa8848ee96bf5",
       "parentIds": [
-        "ml85yaxz-dbly59kwl"
+        "mle0b7yu-q7xzc6jkp"
       ],
       "order": [
         2
       ],
-      "createdAt": "2026-02-04T15:09:28.227Z",
-      "updatedAt": "2026-02-04T15:09:28.227Z"
+      "createdAt": "2026-02-08T17:18:09.138Z",
+      "updatedAt": "2026-02-08T17:18:09.138Z"
     },
     {
-      "id": "ml85yaxz-gphkx85vc",
+      "id": "mle0b7yu-zl3wxjfh9",
       "name": "Development AZ726 60 s",
       "templateId": "2025-08-18T14:27:09.205Z8emtt96",
       "data": {
         "2025-08-18T14:27:09.205Z19elh19": "Development",
         "2025-08-18T14:27:09.205Zioyu81t": "AZ726",
-        "2025-08-18T14:27:09.205Zy44o4qe": "60"
+        "2025-08-18T14:27:09.205Zy44o4qe": "60",
+        "2026-02-28T08:13:31.721Z0.4679334447442006": "s"
       },
       "isStarred": false,
-      "userId": "68a99c3dde9b3f9a34859ed8",
-      "treeId": "698361279c109145180a2232",
+      "userId": "68a9fb395a866b17c663d971",
+      "treeId": "6988c550163aa8848ee96bf5",
       "parentIds": [
-        "ml85yaxz-dbly59kwl"
+        "mle0b7yu-q7xzc6jkp"
       ],
       "order": [
         3
       ],
-      "createdAt": "2026-02-04T15:09:28.227Z",
-      "updatedAt": "2026-02-04T15:09:28.227Z"
+      "createdAt": "2026-02-08T17:18:09.138Z",
+      "updatedAt": "2026-02-08T17:18:09.138Z"
     },
     {
-      "id": "ml85yaxz-ktzpjqi6r",
+      "id": "mle0b7yu-e8jq5ohqy",
       "name": "Cr/Au Deposition",
       "templateId": "2026-01-09T14:22:29.950Z",
       "data": {
@@ -661,19 +664,19 @@
         "2025-08-18T14:27:09.205Zwj4znau": "Cr/Au"
       },
       "isStarred": false,
-      "userId": "68a99c3dde9b3f9a34859ed8",
-      "treeId": "698361279c109145180a2232",
+      "userId": "68a9fb395a866b17c663d971",
+      "treeId": "6988c550163aa8848ee96bf5",
       "parentIds": [
-        "ml85yaxz-hulgwqw5w"
+        "mle0b7yu-htg1fr4mc"
       ],
       "order": [
         7
       ],
-      "createdAt": "2026-02-04T15:09:28.227Z",
-      "updatedAt": "2026-02-04T15:09:28.227Z"
+      "createdAt": "2026-02-08T17:18:09.138Z",
+      "updatedAt": "2026-02-08T17:18:09.138Z"
     },
     {
-      "id": "ml85yaxz-iuwt9zeb5",
+      "id": "mle0b7yu-wn0yg790l",
       "name": "Thermal Evaporation",
       "templateId": "2025-08-18T14:27:09.205Zt08pzxx",
       "data": {
@@ -692,41 +695,42 @@
         ]
       },
       "isStarred": false,
-      "userId": "68a99c3dde9b3f9a34859ed8",
-      "treeId": "698361279c109145180a2232",
+      "userId": "68a9fb395a866b17c663d971",
+      "treeId": "6988c550163aa8848ee96bf5",
       "parentIds": [
-        "ml85yaxz-ktzpjqi6r"
+        "mle0b7yu-e8jq5ohqy"
       ],
       "order": [
         0
       ],
-      "createdAt": "2026-02-04T15:09:28.227Z",
-      "updatedAt": "2026-02-04T15:09:28.227Z"
+      "createdAt": "2026-02-08T17:18:09.138Z",
+      "updatedAt": "2026-02-08T17:18:09.138Z"
     },
     {
-      "id": "ml85yaxz-magv28ksk",
-      "name": "Resist removal AZ Kwik Strip 7200 s 70 °C",
+      "id": "mle0b7yu-p2sd6hzqr",
+      "name": "Resist removal AZ Kwik Strip 2 h 70 °C",
       "templateId": "2025-08-18T14:27:09.205Z8emtt96",
       "data": {
         "2025-08-18T14:27:09.205Z19elh19": "Resist removal",
         "2025-08-18T14:27:09.205Zioyu81t": "AZ Kwik Strip",
-        "2025-08-18T14:27:09.205Zy44o4qe": "7200",
-        "2025-08-18T14:27:09.205Zs41rq2c": "70"
+        "2025-08-18T14:27:09.205Zy44o4qe": "2",
+        "2025-08-18T14:27:09.205Zs41rq2c": "70",
+        "2026-02-28T08:13:31.721Z0.4679334447442006": "h"
       },
       "isStarred": false,
-      "userId": "68a99c3dde9b3f9a34859ed8",
-      "treeId": "698361279c109145180a2232",
+      "userId": "68a9fb395a866b17c663d971",
+      "treeId": "6988c550163aa8848ee96bf5",
       "parentIds": [
-        "ml85yaxz-hulgwqw5w"
+        "mle0b7yu-htg1fr4mc"
       ],
       "order": [
         8
       ],
-      "createdAt": "2026-02-04T15:09:28.227Z",
-      "updatedAt": "2026-02-04T15:09:28.227Z"
+      "createdAt": "2026-02-08T17:18:09.138Z",
+      "updatedAt": "2026-02-08T17:18:09.138Z"
     },
     {
-      "id": "ml85yaxz-g6glhu2n7",
+      "id": "mle0b7yu-06vdguc3u",
       "name": "Sonication 75 % 20 min 20 °C",
       "templateId": "2025-08-18T14:27:09.205Z0h39mc8",
       "data": {
@@ -735,38 +739,38 @@
         "2025-08-18T14:27:09.205Zk247b04": "20"
       },
       "isStarred": false,
-      "userId": "68a99c3dde9b3f9a34859ed8",
-      "treeId": "698361279c109145180a2232",
+      "userId": "68a9fb395a866b17c663d971",
+      "treeId": "6988c550163aa8848ee96bf5",
       "parentIds": [
-        "ml85yaxz-magv28ksk"
+        "mle0b7yu-p2sd6hzqr"
       ],
       "order": [
         0
       ],
-      "createdAt": "2026-02-04T15:09:28.227Z",
-      "updatedAt": "2026-02-04T15:09:28.227Z"
+      "createdAt": "2026-02-08T17:18:09.138Z",
+      "updatedAt": "2026-02-08T17:18:09.138Z"
     },
     {
-      "id": "ml85yaxz-u2bzvno7o",
+      "id": "mle0b7yu-k77gglngl",
       "name": "Automatic Dicing",
       "templateId": "mk840ej4-0jxd5oo1z",
       "data": {
         "2026-01-10T09:34:01.489Z0.9020625561347209": "Automatic"
       },
       "isStarred": false,
-      "userId": "68a99c3dde9b3f9a34859ed8",
-      "treeId": "698361279c109145180a2232",
+      "userId": "68a9fb395a866b17c663d971",
+      "treeId": "6988c550163aa8848ee96bf5",
       "parentIds": [
-        "ml85yaxz-hulgwqw5w"
+        "mle0b7yu-htg1fr4mc"
       ],
       "order": [
         9
       ],
-      "createdAt": "2026-02-04T15:09:28.227Z",
-      "updatedAt": "2026-02-04T15:09:28.227Z"
+      "createdAt": "2026-02-08T17:18:09.138Z",
+      "updatedAt": "2026-02-08T17:18:09.138Z"
     },
     {
-      "id": "ml85yaxz-dh8ywcn14",
+      "id": "mle0b7yu-fisbs127p",
       "name": "S1",
       "templateId": "2025-08-18T14:27:09.205Zbm4wrn4",
       "data": {
@@ -776,21 +780,21 @@
         "2025-08-18T14:27:09.205Zdf8re2o": "Silicon 100"
       },
       "isStarred": true,
-      "userId": "68a99c3dde9b3f9a34859ed8",
-      "treeId": "698361279c109145180a2232",
+      "userId": "68a9fb395a866b17c663d971",
+      "treeId": "6988c550163aa8848ee96bf5",
       "parentIds": [
-        "ml85yaxz-u2bzvno7o",
-        "ml85yaxz-ta1kyqspo"
+        "mle0b7yu-k77gglngl",
+        "mle0b7yu-9dvkugywn"
       ],
       "order": [
         0,
         0
       ],
-      "createdAt": "2026-02-04T15:09:28.227Z",
-      "updatedAt": "2026-02-04T15:09:28.227Z"
+      "createdAt": "2026-02-08T17:18:09.138Z",
+      "updatedAt": "2026-02-08T17:18:09.138Z"
     },
     {
-      "id": "ml85yaxz-jwje6k70g",
+      "id": "mle0b7yu-bgiav8m4j",
       "name": "Electrical characterization",
       "templateId": "2025-08-18T14:27:09.205Zql33x9g",
       "data": {
@@ -798,19 +802,19 @@
         "2025-08-18T14:27:09.205Zp9brlh4": "Electrical characterization"
       },
       "isStarred": false,
-      "userId": "68a99c3dde9b3f9a34859ed8",
-      "treeId": "698361279c109145180a2232",
+      "userId": "68a9fb395a866b17c663d971",
+      "treeId": "6988c550163aa8848ee96bf5",
       "parentIds": [
-        "ml85yaxz-dh8ywcn14"
+        "mle0b7yu-fisbs127p"
       ],
       "order": [
         0
       ],
-      "createdAt": "2026-02-04T15:09:28.227Z",
-      "updatedAt": "2026-02-04T15:09:28.227Z"
+      "createdAt": "2026-02-08T17:18:09.138Z",
+      "updatedAt": "2026-02-08T17:18:09.138Z"
     },
     {
-      "id": "ml85yaxz-r9h0b4qaw",
+      "id": "mle0b7yu-1vnp8ckw6",
       "name": "AMR 4.5 %",
       "templateId": "2025-08-18T14:27:09.205Zspy61an",
       "data": {
@@ -819,19 +823,19 @@
         "2025-08-18T14:27:09.205Zqiblx0r": "%"
       },
       "isStarred": false,
-      "userId": "68a99c3dde9b3f9a34859ed8",
-      "treeId": "698361279c109145180a2232",
+      "userId": "68a9fb395a866b17c663d971",
+      "treeId": "6988c550163aa8848ee96bf5",
       "parentIds": [
-        "ml85yaxz-jwje6k70g"
+        "mle0b7yu-bgiav8m4j"
       ],
       "order": [
         0
       ],
-      "createdAt": "2026-02-04T15:09:28.227Z",
-      "updatedAt": "2026-02-04T15:09:28.227Z"
+      "createdAt": "2026-02-08T17:18:09.138Z",
+      "updatedAt": "2026-02-08T17:18:09.138Z"
     },
     {
-      "id": "ml85yaxz-77485ns0m",
+      "id": "mle0b7yu-e50ttoxny",
       "name": "S2",
       "templateId": "2025-08-18T14:27:09.205Zbm4wrn4",
       "data": {
@@ -841,19 +845,19 @@
         "2025-08-18T14:27:09.205Zdf8re2o": "Silicon 100"
       },
       "isStarred": false,
-      "userId": "68a99c3dde9b3f9a34859ed8",
-      "treeId": "698361279c109145180a2232",
+      "userId": "68a9fb395a866b17c663d971",
+      "treeId": "6988c550163aa8848ee96bf5",
       "parentIds": [
-        "ml85yaxz-u2bzvno7o"
+        "mle0b7yu-k77gglngl"
       ],
       "order": [
         1
       ],
-      "createdAt": "2026-02-04T15:09:28.227Z",
-      "updatedAt": "2026-02-04T15:09:28.227Z"
+      "createdAt": "2026-02-08T17:18:09.138Z",
+      "updatedAt": "2026-02-08T17:18:09.138Z"
     },
     {
-      "id": "ml85yaxz-0mnq8con0",
+      "id": "mle0b7yu-zk1zwwjnj",
       "name": "S3",
       "templateId": "2025-08-18T14:27:09.205Zbm4wrn4",
       "data": {
@@ -863,19 +867,19 @@
         "2025-08-18T14:27:09.205Zdf8re2o": "Silicon 100"
       },
       "isStarred": false,
-      "userId": "68a99c3dde9b3f9a34859ed8",
-      "treeId": "698361279c109145180a2232",
+      "userId": "68a9fb395a866b17c663d971",
+      "treeId": "6988c550163aa8848ee96bf5",
       "parentIds": [
-        "ml85yaxz-u2bzvno7o"
+        "mle0b7yu-k77gglngl"
       ],
       "order": [
         2
       ],
-      "createdAt": "2026-02-04T15:09:28.227Z",
-      "updatedAt": "2026-02-04T15:09:28.227Z"
+      "createdAt": "2026-02-08T17:18:09.138Z",
+      "updatedAt": "2026-02-08T17:18:09.138Z"
     },
     {
-      "id": "ml85yaxz-iwsdlaj1n",
+      "id": "mle0b7yu-qjlok9i9u",
       "name": "Sample2",
       "templateId": "2025-08-18T14:27:09.205Zbm4wrn4",
       "data": {
@@ -885,19 +889,19 @@
         "2025-08-18T14:27:09.205Zulhvcmq": "Sample2"
       },
       "isStarred": false,
-      "userId": "68a99c3dde9b3f9a34859ed8",
-      "treeId": "698361279c109145180a2232",
+      "userId": "68a9fb395a866b17c663d971",
+      "treeId": "6988c550163aa8848ee96bf5",
       "parentIds": [
-        "ml85yaxz-jlfb9247w"
+        "mle0b7yu-w8ov3vzke"
       ],
       "order": [
         1
       ],
-      "createdAt": "2026-02-04T15:09:28.227Z",
-      "updatedAt": "2026-02-04T20:35:57.690Z"
+      "createdAt": "2026-02-08T17:18:09.138Z",
+      "updatedAt": "2026-02-08T17:18:09.138Z"
     },
     {
-      "id": "ml85yaxz-tdg4fs63j",
+      "id": "mle0b7yu-57rvi929w",
       "name": "Resistivity",
       "templateId": "2025-08-18T14:27:09.205Zql33x9g",
       "data": {
@@ -905,19 +909,19 @@
         "2025-08-18T14:27:09.205Zp9brlh4": "Resistivity"
       },
       "isStarred": false,
-      "userId": "68a99c3dde9b3f9a34859ed8",
-      "treeId": "698361279c109145180a2232",
+      "userId": "68a9fb395a866b17c663d971",
+      "treeId": "6988c550163aa8848ee96bf5",
       "parentIds": [
-        "ml85yaxz-iwsdlaj1n"
+        "mle0b7yu-qjlok9i9u"
       ],
       "order": [
         1
       ],
-      "createdAt": "2026-02-04T15:09:28.227Z",
-      "updatedAt": "2026-02-04T15:09:28.227Z"
+      "createdAt": "2026-02-08T17:18:09.138Z",
+      "updatedAt": "2026-02-08T17:18:09.138Z"
     },
     {
-      "id": "ml85yaxz-x5sa43qgs",
+      "id": "mle0b7yu-k968wieaq",
       "name": "Sheet resistance",
       "templateId": "mk81yf86-6m9saygqd",
       "data": {
@@ -942,36 +946,36 @@
         }
       },
       "isStarred": false,
-      "userId": "68a99c3dde9b3f9a34859ed8",
-      "treeId": "698361279c109145180a2232",
+      "userId": "68a9fb395a866b17c663d971",
+      "treeId": "6988c550163aa8848ee96bf5",
       "parentIds": [
-        "ml85yaxz-tdg4fs63j"
+        "mle0b7yu-57rvi929w"
       ],
       "order": [
         0
       ],
-      "createdAt": "2026-02-04T15:09:28.227Z",
-      "updatedAt": "2026-02-04T15:09:28.227Z"
+      "createdAt": "2026-02-08T17:18:09.138Z",
+      "updatedAt": "2026-02-08T17:18:09.138Z"
     },
     {
-      "id": "ml85yaxz-ta1kyqspo",
+      "id": "mle0b7yu-9dvkugywn",
       "name": "Sample tray",
       "templateId": "2025-08-18T14:27:09.205Z2uet3xb",
       "data": {
         "2025-08-18T14:27:09.205Zcbx5ubp": "Sample tray"
       },
       "isStarred": false,
-      "userId": "68a99c3dde9b3f9a34859ed8",
-      "treeId": "698361279c109145180a2232",
+      "userId": "68a9fb395a866b17c663d971",
+      "treeId": "6988c550163aa8848ee96bf5",
       "parentIds": [],
       "order": [
         2
       ],
-      "createdAt": "2026-02-04T15:09:28.227Z",
-      "updatedAt": "2026-02-04T15:09:28.227Z"
+      "createdAt": "2026-02-08T17:18:09.138Z",
+      "updatedAt": "2026-02-08T17:18:09.138Z"
     },
     {
-      "id": "ml85yaxz-o7odto1mc",
+      "id": "mle0b7yu-y068ow7q6",
       "name": "Available diced samples",
       "templateId": "ml6zto5a-jnnowv02j",
       "data": {
@@ -998,14 +1002,14 @@
         ]
       },
       "isStarred": false,
-      "userId": "68a99c3dde9b3f9a34859ed8",
-      "treeId": "698361279c109145180a2232",
+      "userId": "68a9fb395a866b17c663d971",
+      "treeId": "6988c550163aa8848ee96bf5",
       "parentIds": [],
       "order": [
         3
       ],
-      "createdAt": "2026-02-04T15:09:28.227Z",
-      "updatedAt": "2026-02-04T15:09:28.227Z"
+      "createdAt": "2026-02-08T17:18:09.138Z",
+      "updatedAt": "2026-02-08T17:18:09.138Z"
     }
   ],
   "templates": [
@@ -1577,6 +1581,8 @@
       "name": "Wet process",
       "icon": "Droplet",
       "color": "#1496C9",
+      "nameTemplate": "{Type} {Chemical} {Time} {Time unit} {Temperature}",
+      "bodyTemplate": "",
       "fields": [
         {
           "id": "2025-08-18T14:27:09.205Z19elh19",
@@ -1598,9 +1604,19 @@
         {
           "id": "2025-08-18T14:27:09.205Zy44o4qe",
           "name": "Time",
-          "type": "text",
+          "type": "number",
           "options": [],
-          "postfix": " s"
+          "postfix": ""
+        },
+        {
+          "id": "2026-02-28T08:13:31.721Z0.4679334447442006",
+          "name": "Time unit",
+          "type": "dropdown",
+          "options": [
+            "s",
+            "m",
+            "h"
+          ]
         },
         {
           "id": "2025-08-18T14:27:09.205Zs41rq2c",
@@ -1610,8 +1626,6 @@
           "postfix": " °C"
         }
       ],
-      "nameTemplate": "{Type} {Chemical} {Time} {Temperature}",
-      "bodyTemplate": "",
       "conditionalRules": [
         {
           "id": "2025-08-18T14:27:09.205Z2grjgb6",
@@ -2125,9 +2139,9 @@
     }
   ],
   "rootNodeIds": [
-    "ml85yaxz-04th8ljej",
-    "ml85yaxz-jlfb9247w",
-    "ml85yaxz-ta1kyqspo",
-    "ml85yaxz-o7odto1mc"
+    "mle0b7yu-oc0ym1x5o",
+    "mle0b7yu-w8ov3vzke",
+    "mle0b7yu-9dvkugywn",
+    "mle0b7yu-y068ow7q6"
   ]
 }
