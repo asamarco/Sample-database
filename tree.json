@@ -2,7 +2,7 @@
   "title": "🔬Sample database",
   "nodes": [
     {
-      "id": "mn5yb466-d6ut5wjtr",
+      "id": "mniqf8ue-g1up620i2",
       "name": "Rationale",
       "templateId": "2025-08-18T14:27:09.205Z2nqu2su",
       "data": {
@@ -11,37 +11,37 @@
       },
       "isStarred": false,
       "userId": "68a9fb395a866b17c663d971",
-      "treeId": "69c3c4b8b55406a8e4c60a1e",
+      "treeId": "69cf8f8855dc4535fa5ff15d",
       "parentIds": [],
       "order": [
         0
       ],
-      "createdAt": "2026-03-25T11:19:20.458Z",
-      "updatedAt": "2026-03-25T11:19:20.458Z"
+      "createdAt": "2026-04-03T09:59:36.447Z",
+      "updatedAt": "2026-04-03T09:59:36.447Z"
     },
     {
-      "id": "mn5yb466-oihf2b0cf",
+      "id": "mniqf8ue-jgy7hx272",
       "name": "Usage of clones",
       "templateId": "2025-08-18T14:27:09.205Z2nqu2su",
       "data": {
-        "2025-08-18T14:27:09.205Zvjv2ggy": "<i>Clone nodes</i> are used in the example with two purposes:\n\n1. A single process acting on multiple samples: node://mn5yb466-ai0x2tkmj\n2. A dice, being at the same time a descendant of a sample and a sample per se: node://mn5yb467-t7n3alev4\n\nUsage of clones in this way is strongly encouraged.",
+        "2025-08-18T14:27:09.205Zvjv2ggy": "<i>Clone nodes</i> are used in the example with two purposes:\n\n1. A single process acting on multiple samples: node://mniqf8ue-0zyzht55q\n2. A dice, being at the same time a descendant of a sample and a sample per se: node://mniqf8ue-wrrhm7se6\n\nUsage of clones in this way is strongly encouraged.",
         "2025-08-18T14:27:09.205Zk07y9yo": "Usage of clones",
         "2025-08-18T14:27:09.205Z0qxilez": "Info"
       },
       "isStarred": false,
       "userId": "68a9fb395a866b17c663d971",
-      "treeId": "69c3c4b8b55406a8e4c60a1e",
+      "treeId": "69cf8f8855dc4535fa5ff15d",
       "parentIds": [
-        "mn5yb466-d6ut5wjtr"
+        "mniqf8ue-g1up620i2"
       ],
       "order": [
         0
       ],
-      "createdAt": "2026-03-25T11:19:20.458Z",
-      "updatedAt": "2026-03-25T11:19:20.458Z"
+      "createdAt": "2026-04-03T09:59:36.447Z",
+      "updatedAt": "2026-04-03T09:59:36.447Z"
     },
     {
-      "id": "mn5yb466-q5a6l7rfe",
+      "id": "mniqf8ue-a24y4u05g",
       "name": "Generic notes",
       "templateId": "2025-08-18T14:27:09.205Z2nqu2su",
       "data": {
@@ -68,18 +68,18 @@
       },
       "isStarred": false,
       "userId": "68a9fb395a866b17c663d971",
-      "treeId": "69c3c4b8b55406a8e4c60a1e",
+      "treeId": "69cf8f8855dc4535fa5ff15d",
       "parentIds": [
-        "mn5yb466-d6ut5wjtr"
+        "mniqf8ue-g1up620i2"
       ],
       "order": [
         1
       ],
-      "createdAt": "2026-03-25T11:19:20.458Z",
-      "updatedAt": "2026-03-25T11:19:20.458Z"
+      "createdAt": "2026-04-03T09:59:36.447Z",
+      "updatedAt": "2026-04-03T09:59:36.447Z"
     },
     {
-      "id": "mn5yb466-ibdgbuzos",
+      "id": "mniqf8ue-bd0mzca08",
       "name": "Wafer Box",
       "templateId": "2025-08-18T14:27:09.205Z2uet3xb",
       "data": {
@@ -87,17 +87,17 @@
       },
       "isStarred": false,
       "userId": "68a9fb395a866b17c663d971",
-      "treeId": "69c3c4b8b55406a8e4c60a1e",
+      "treeId": "69cf8f8855dc4535fa5ff15d",
       "parentIds": [],
       "order": [
         1,
         -1
       ],
-      "createdAt": "2026-03-25T11:19:20.458Z",
-      "updatedAt": "2026-03-25T11:19:20.458Z"
+      "createdAt": "2026-04-03T09:59:36.447Z",
+      "updatedAt": "2026-04-03T09:59:36.447Z"
     },
     {
-      "id": "mn5yb466-dypsay92f",
+      "id": "mniqf8ue-nykhf0si8",
       "name": "Sample1",
       "templateId": "2025-08-18T14:27:09.205Zbm4wrn4",
       "data": {
@@ -108,18 +108,18 @@
       },
       "isStarred": false,
       "userId": "68a9fb395a866b17c663d971",
-      "treeId": "69c3c4b8b55406a8e4c60a1e",
+      "treeId": "69cf8f8855dc4535fa5ff15d",
       "parentIds": [
-        "mn5yb466-ibdgbuzos"
+        "mniqf8ue-bd0mzca08"
       ],
       "order": [
         0
       ],
-      "createdAt": "2026-03-25T11:19:20.458Z",
-      "updatedAt": "2026-03-25T11:19:20.458Z"
+      "createdAt": "2026-04-03T09:59:36.447Z",
+      "updatedAt": "2026-04-03T09:59:36.447Z"
     },
     {
-      "id": "mn5yb466-ai0x2tkmj",
+      "id": "mniqf8ue-0zyzht55q",
       "name": "SiO2/NiFe Deposition",
       "templateId": "2026-01-09T14:22:29.950Z",
       "data": {
@@ -128,20 +128,20 @@
       },
       "isStarred": false,
       "userId": "68a9fb395a866b17c663d971",
-      "treeId": "69c3c4b8b55406a8e4c60a1e",
+      "treeId": "69cf8f8855dc4535fa5ff15d",
       "parentIds": [
-        "mn5yb467-3p6nx5ej5",
-        "mn5yb466-dypsay92f"
+        "mniqf8ue-l0z63rliv",
+        "mniqf8ue-nykhf0si8"
       ],
       "order": [
         0,
         0
       ],
-      "createdAt": "2026-03-25T11:19:20.458Z",
-      "updatedAt": "2026-03-25T11:19:20.458Z"
+      "createdAt": "2026-04-03T09:59:36.447Z",
+      "updatedAt": "2026-04-03T09:59:36.447Z"
     },
     {
-      "id": "mn5yb466-wndwp2b62",
+      "id": "mniqf8ue-elf8tu0l6",
       "name": "E-beam Evaporation",
       "templateId": "2025-08-18T14:27:09.205Zt08pzxx",
       "data": {
@@ -161,18 +161,18 @@
       },
       "isStarred": false,
       "userId": "68a9fb395a866b17c663d971",
-      "treeId": "69c3c4b8b55406a8e4c60a1e",
+      "treeId": "69cf8f8855dc4535fa5ff15d",
       "parentIds": [
-        "mn5yb466-ai0x2tkmj"
+        "mniqf8ue-0zyzht55q"
       ],
       "order": [
         0
       ],
-      "createdAt": "2026-03-25T11:19:20.458Z",
-      "updatedAt": "2026-03-25T11:19:20.458Z"
+      "createdAt": "2026-04-03T09:59:36.447Z",
+      "updatedAt": "2026-04-03T09:59:36.447Z"
     },
     {
-      "id": "mn5yb466-ntlbj65f6",
+      "id": "mniqf8ue-utawew9n7",
       "name": "Profilometry",
       "templateId": "2025-08-18T14:27:09.205Zql33x9g",
       "data": {
@@ -181,18 +181,18 @@
       },
       "isStarred": false,
       "userId": "68a9fb395a866b17c663d971",
-      "treeId": "69c3c4b8b55406a8e4c60a1e",
+      "treeId": "69cf8f8855dc4535fa5ff15d",
       "parentIds": [
-        "mn5yb466-dypsay92f"
+        "mniqf8ue-nykhf0si8"
       ],
       "order": [
         1
       ],
-      "createdAt": "2026-03-25T11:19:20.458Z",
-      "updatedAt": "2026-03-25T11:19:20.458Z"
+      "createdAt": "2026-04-03T09:59:36.447Z",
+      "updatedAt": "2026-04-03T09:59:36.447Z"
     },
     {
-      "id": "mn5yb466-ahnmztji0",
+      "id": "mniqf8ue-zgio123um",
       "name": "Av. Thickness 90 nm",
       "templateId": "2025-08-18T14:27:09.205Zspy61an",
       "data": {
@@ -202,18 +202,18 @@
       },
       "isStarred": false,
       "userId": "68a9fb395a866b17c663d971",
-      "treeId": "69c3c4b8b55406a8e4c60a1e",
+      "treeId": "69cf8f8855dc4535fa5ff15d",
       "parentIds": [
-        "mn5yb466-ntlbj65f6"
+        "mniqf8ue-utawew9n7"
       ],
       "order": [
         0
       ],
-      "createdAt": "2026-03-25T11:19:20.458Z",
-      "updatedAt": "2026-03-25T11:19:20.458Z"
+      "createdAt": "2026-04-03T09:59:36.447Z",
+      "updatedAt": "2026-04-03T09:59:36.447Z"
     },
     {
-      "id": "mn5yb466-0mfoklraf",
+      "id": "mniqf8ue-u9z637uz2",
       "name": "Uniformity 0.5 %",
       "templateId": "2025-08-18T14:27:09.205Zspy61an",
       "data": {
@@ -223,18 +223,18 @@
       },
       "isStarred": false,
       "userId": "68a9fb395a866b17c663d971",
-      "treeId": "69c3c4b8b55406a8e4c60a1e",
+      "treeId": "69cf8f8855dc4535fa5ff15d",
       "parentIds": [
-        "mn5yb466-ntlbj65f6"
+        "mniqf8ue-utawew9n7"
       ],
       "order": [
         1
       ],
-      "createdAt": "2026-03-25T11:19:20.458Z",
-      "updatedAt": "2026-03-25T11:19:20.458Z"
+      "createdAt": "2026-04-03T09:59:36.447Z",
+      "updatedAt": "2026-04-03T09:59:36.447Z"
     },
     {
-      "id": "mn5yb466-w0vocscth",
+      "id": "mniqf8ue-n6uzsafme",
       "name": "Thickness",
       "templateId": "mk81yf86-6m9saygqd",
       "data": {
@@ -276,18 +276,18 @@
       },
       "isStarred": false,
       "userId": "68a9fb395a866b17c663d971",
-      "treeId": "69c3c4b8b55406a8e4c60a1e",
+      "treeId": "69cf8f8855dc4535fa5ff15d",
       "parentIds": [
-        "mn5yb466-ntlbj65f6"
+        "mniqf8ue-utawew9n7"
       ],
       "order": [
         2
       ],
-      "createdAt": "2026-03-25T11:19:20.458Z",
-      "updatedAt": "2026-03-25T11:19:20.458Z"
+      "createdAt": "2026-04-03T09:59:36.447Z",
+      "updatedAt": "2026-04-03T09:59:36.447Z"
     },
     {
-      "id": "mn5yb466-awzbqudlp",
+      "id": "mniqf8ue-zlnuv44g3",
       "name": "Optical Lithography",
       "templateId": "2026-01-09T12:05:51.359Z",
       "data": {
@@ -296,18 +296,18 @@
       },
       "isStarred": false,
       "userId": "68a9fb395a866b17c663d971",
-      "treeId": "69c3c4b8b55406a8e4c60a1e",
+      "treeId": "69cf8f8855dc4535fa5ff15d",
       "parentIds": [
-        "mn5yb466-dypsay92f"
+        "mniqf8ue-nykhf0si8"
       ],
       "order": [
         2
       ],
-      "createdAt": "2026-03-25T11:19:20.458Z",
-      "updatedAt": "2026-03-25T11:19:20.458Z"
+      "createdAt": "2026-04-03T09:59:36.447Z",
+      "updatedAt": "2026-04-03T09:59:36.447Z"
     },
     {
-      "id": "mn5yb466-34l3pgvxd",
+      "id": "mniqf8ue-6hxpbd0sa",
       "name": "HMDS priming",
       "templateId": "2025-08-18T14:27:09.205Z2nqu2su",
       "data": {
@@ -316,18 +316,18 @@
       },
       "isStarred": false,
       "userId": "68a9fb395a866b17c663d971",
-      "treeId": "69c3c4b8b55406a8e4c60a1e",
+      "treeId": "69cf8f8855dc4535fa5ff15d",
       "parentIds": [
-        "mn5yb466-awzbqudlp"
+        "mniqf8ue-zlnuv44g3"
       ],
       "order": [
         0
       ],
-      "createdAt": "2026-03-25T11:19:20.458Z",
-      "updatedAt": "2026-03-25T11:19:20.458Z"
+      "createdAt": "2026-04-03T09:59:36.447Z",
+      "updatedAt": "2026-04-03T09:59:36.447Z"
     },
     {
-      "id": "mn5yb466-4qum3ua0j",
+      "id": "mniqf8ue-kzclsmf53",
       "name": "Spin coating AZ15nXT 4000 rpm",
       "templateId": "2025-08-18T14:27:09.205Zavevifg",
       "data": {
@@ -338,39 +338,40 @@
       },
       "isStarred": false,
       "userId": "68a9fb395a866b17c663d971",
-      "treeId": "69c3c4b8b55406a8e4c60a1e",
+      "treeId": "69cf8f8855dc4535fa5ff15d",
       "parentIds": [
-        "mn5yb466-awzbqudlp"
+        "mniqf8ue-zlnuv44g3"
       ],
       "order": [
         1
       ],
-      "createdAt": "2026-03-25T11:19:20.458Z",
-      "updatedAt": "2026-03-25T11:19:20.458Z"
+      "createdAt": "2026-04-03T09:59:36.447Z",
+      "updatedAt": "2026-04-03T09:59:36.447Z"
     },
     {
-      "id": "mn5yb467-i77h87i1f",
+      "id": "mniqf8ue-gpd7nbu50",
       "name": "Bake 120 °C 120 s",
       "templateId": "2025-08-18T14:27:09.205Z7selmn3",
       "data": {
         "2025-08-18T14:27:09.205Zfubrk1z": "Bake",
         "2025-08-18T14:27:09.205Zh5k0fht": "120",
-        "2025-08-18T14:27:09.205Zmuuetk6": "120"
+        "2025-08-18T14:27:09.205Zmuuetk6": "120",
+        "2026-04-03T14:08:49.734Z0.4947799446476957": "s"
       },
       "isStarred": false,
       "userId": "68a9fb395a866b17c663d971",
-      "treeId": "69c3c4b8b55406a8e4c60a1e",
+      "treeId": "69cf8f8855dc4535fa5ff15d",
       "parentIds": [
-        "mn5yb466-awzbqudlp"
+        "mniqf8ue-zlnuv44g3"
       ],
       "order": [
         2
       ],
-      "createdAt": "2026-03-25T11:19:20.458Z",
-      "updatedAt": "2026-03-25T11:19:20.458Z"
+      "createdAt": "2026-04-03T09:59:36.447Z",
+      "updatedAt": "2026-04-03T09:59:36.447Z"
     },
     {
-      "id": "mn5yb467-htv4t0y99",
+      "id": "mniqf8ue-t3tv2g7ix",
       "name": "Exposure 120mW 50%",
       "templateId": "mk8ueoq8-i362m1e4d",
       "data": {
@@ -380,39 +381,40 @@
       },
       "isStarred": false,
       "userId": "68a9fb395a866b17c663d971",
-      "treeId": "69c3c4b8b55406a8e4c60a1e",
+      "treeId": "69cf8f8855dc4535fa5ff15d",
       "parentIds": [
-        "mn5yb466-awzbqudlp"
+        "mniqf8ue-zlnuv44g3"
       ],
       "order": [
         3
       ],
-      "createdAt": "2026-03-25T11:19:20.458Z",
-      "updatedAt": "2026-03-25T11:19:20.458Z"
+      "createdAt": "2026-04-03T09:59:36.447Z",
+      "updatedAt": "2026-04-03T09:59:36.447Z"
     },
     {
-      "id": "mn5yb467-z2td39hbe",
+      "id": "mniqf8ue-ejtky2pb2",
       "name": "Bake 120 °C 120 s",
       "templateId": "2025-08-18T14:27:09.205Z7selmn3",
       "data": {
         "2025-08-18T14:27:09.205Zfubrk1z": "Bake",
         "2025-08-18T14:27:09.205Zh5k0fht": "120",
-        "2025-08-18T14:27:09.205Zmuuetk6": "120"
+        "2025-08-18T14:27:09.205Zmuuetk6": "120",
+        "2026-04-03T14:08:49.734Z0.4947799446476957": "s"
       },
       "isStarred": false,
       "userId": "68a9fb395a866b17c663d971",
-      "treeId": "69c3c4b8b55406a8e4c60a1e",
+      "treeId": "69cf8f8855dc4535fa5ff15d",
       "parentIds": [
-        "mn5yb466-awzbqudlp"
+        "mniqf8ue-zlnuv44g3"
       ],
       "order": [
         4
       ],
-      "createdAt": "2026-03-25T11:19:20.458Z",
-      "updatedAt": "2026-03-25T11:19:20.458Z"
+      "createdAt": "2026-04-03T09:59:36.447Z",
+      "updatedAt": "2026-04-03T09:59:36.447Z"
     },
     {
-      "id": "mn5yb467-sanz61y43",
+      "id": "mniqf8ue-ycj6uqjh1",
       "name": "Development AZ726 60 s",
       "templateId": "2025-08-18T14:27:09.205Z8emtt96",
       "data": {
@@ -423,18 +425,18 @@
       },
       "isStarred": false,
       "userId": "68a9fb395a866b17c663d971",
-      "treeId": "69c3c4b8b55406a8e4c60a1e",
+      "treeId": "69cf8f8855dc4535fa5ff15d",
       "parentIds": [
-        "mn5yb466-awzbqudlp"
+        "mniqf8ue-zlnuv44g3"
       ],
       "order": [
         5
       ],
-      "createdAt": "2026-03-25T11:19:20.458Z",
-      "updatedAt": "2026-03-25T11:19:20.458Z"
+      "createdAt": "2026-04-03T09:59:36.447Z",
+      "updatedAt": "2026-04-03T09:59:36.447Z"
     },
     {
-      "id": "mn5yb467-3ld8k3avu",
+      "id": "mniqf8ue-un5zhkei5",
       "name": "Microscopy",
       "templateId": "2025-08-18T14:27:09.205Zql33x9g",
       "data": {
@@ -442,18 +444,18 @@
       },
       "isStarred": false,
       "userId": "68a9fb395a866b17c663d971",
-      "treeId": "69c3c4b8b55406a8e4c60a1e",
+      "treeId": "69cf8f8855dc4535fa5ff15d",
       "parentIds": [
-        "mn5yb466-dypsay92f"
+        "mniqf8ue-nykhf0si8"
       ],
       "order": [
         3
       ],
-      "createdAt": "2026-03-25T11:19:20.458Z",
-      "updatedAt": "2026-03-25T11:19:20.458Z"
+      "createdAt": "2026-04-03T09:59:36.447Z",
+      "updatedAt": "2026-04-03T09:59:36.447Z"
     },
     {
-      "id": "mn5yb467-r46qep2dj",
+      "id": "mniqf8ue-uobvmkj8v",
       "name": "CD",
       "templateId": "2026-01-09T15:08:30.384Z",
       "data": {
@@ -476,18 +478,18 @@
       },
       "isStarred": false,
       "userId": "68a9fb395a866b17c663d971",
-      "treeId": "69c3c4b8b55406a8e4c60a1e",
+      "treeId": "69cf8f8855dc4535fa5ff15d",
       "parentIds": [
-        "mn5yb467-3ld8k3avu"
+        "mniqf8ue-un5zhkei5"
       ],
       "order": [
         0
       ],
-      "createdAt": "2026-03-25T11:19:20.458Z",
-      "updatedAt": "2026-03-25T11:19:20.458Z"
+      "createdAt": "2026-04-03T09:59:36.447Z",
+      "updatedAt": "2026-04-03T09:59:36.447Z"
     },
     {
-      "id": "mn5yb467-73bzpvuhi",
+      "id": "mniqf8ue-ku2awtm1o",
       "name": "NiFe Etch",
       "templateId": "mk83hdgv-arjcokuu2",
       "data": {
@@ -496,18 +498,18 @@
       },
       "isStarred": false,
       "userId": "68a9fb395a866b17c663d971",
-      "treeId": "69c3c4b8b55406a8e4c60a1e",
+      "treeId": "69cf8f8855dc4535fa5ff15d",
       "parentIds": [
-        "mn5yb466-dypsay92f"
+        "mniqf8ue-nykhf0si8"
       ],
       "order": [
         4
       ],
-      "createdAt": "2026-03-25T11:19:20.458Z",
-      "updatedAt": "2026-03-25T11:19:20.458Z"
+      "createdAt": "2026-04-03T09:59:36.447Z",
+      "updatedAt": "2026-04-03T09:59:36.447Z"
     },
     {
-      "id": "mn5yb467-ln86hjvja",
+      "id": "mniqf8ue-z46u1w41r",
       "name": "IBE (200V, 100mA, 30°) 10min",
       "templateId": "2026-01-09T15:57:17.841Z",
       "data": {
@@ -518,18 +520,18 @@
       },
       "isStarred": false,
       "userId": "68a9fb395a866b17c663d971",
-      "treeId": "69c3c4b8b55406a8e4c60a1e",
+      "treeId": "69cf8f8855dc4535fa5ff15d",
       "parentIds": [
-        "mn5yb467-73bzpvuhi"
+        "mniqf8ue-ku2awtm1o"
       ],
       "order": [
         0
       ],
-      "createdAt": "2026-03-25T11:19:20.458Z",
-      "updatedAt": "2026-03-25T11:19:20.458Z"
+      "createdAt": "2026-04-03T09:59:36.447Z",
+      "updatedAt": "2026-04-03T09:59:36.447Z"
     },
     {
-      "id": "mn5yb467-gx7o47unh",
+      "id": "mniqf8ue-9cx33semx",
       "name": "Resist removal AZ Kwik Strip 2 h 70 °C",
       "templateId": "2025-08-18T14:27:09.205Z8emtt96",
       "data": {
@@ -541,18 +543,18 @@
       },
       "isStarred": false,
       "userId": "68a9fb395a866b17c663d971",
-      "treeId": "69c3c4b8b55406a8e4c60a1e",
+      "treeId": "69cf8f8855dc4535fa5ff15d",
       "parentIds": [
-        "mn5yb466-dypsay92f"
+        "mniqf8ue-nykhf0si8"
       ],
       "order": [
         5
       ],
-      "createdAt": "2026-03-25T11:19:20.458Z",
-      "updatedAt": "2026-03-25T11:19:20.458Z"
+      "createdAt": "2026-04-03T09:59:36.447Z",
+      "updatedAt": "2026-04-03T09:59:36.447Z"
     },
     {
-      "id": "mn5yb467-y0cif9cac",
+      "id": "mniqf8ue-o8jgn7v3d",
       "name": "Optical Lithography",
       "templateId": "2026-01-09T12:05:51.359Z",
       "data": {
@@ -560,18 +562,18 @@
       },
       "isStarred": false,
       "userId": "68a9fb395a866b17c663d971",
-      "treeId": "69c3c4b8b55406a8e4c60a1e",
+      "treeId": "69cf8f8855dc4535fa5ff15d",
       "parentIds": [
-        "mn5yb466-dypsay92f"
+        "mniqf8ue-nykhf0si8"
       ],
       "order": [
         6
       ],
-      "createdAt": "2026-03-25T11:19:20.458Z",
-      "updatedAt": "2026-03-25T11:19:20.458Z"
+      "createdAt": "2026-04-03T09:59:36.447Z",
+      "updatedAt": "2026-04-03T09:59:36.447Z"
     },
     {
-      "id": "mn5yb467-d7d2o99bk",
+      "id": "mniqf8ue-6b5riijl5",
       "name": "Spin coating AZ5214E 4000 rpm",
       "templateId": "2025-08-18T14:27:09.205Zavevifg",
       "data": {
@@ -582,39 +584,40 @@
       },
       "isStarred": false,
       "userId": "68a9fb395a866b17c663d971",
-      "treeId": "69c3c4b8b55406a8e4c60a1e",
+      "treeId": "69cf8f8855dc4535fa5ff15d",
       "parentIds": [
-        "mn5yb467-y0cif9cac"
+        "mniqf8ue-o8jgn7v3d"
       ],
       "order": [
         0
       ],
-      "createdAt": "2026-03-25T11:19:20.458Z",
-      "updatedAt": "2026-03-25T11:19:20.458Z"
+      "createdAt": "2026-04-03T09:59:36.447Z",
+      "updatedAt": "2026-04-03T09:59:36.447Z"
     },
     {
-      "id": "mn5yb467-7cfbrwe9k",
+      "id": "mniqf8ue-uc07eb2xu",
       "name": "Bake 90 °C 110 s",
       "templateId": "2025-08-18T14:27:09.205Z7selmn3",
       "data": {
         "2025-08-18T14:27:09.205Zfubrk1z": "Bake",
         "2025-08-18T14:27:09.205Zh5k0fht": "90",
-        "2025-08-18T14:27:09.205Zmuuetk6": "110"
+        "2025-08-18T14:27:09.205Zmuuetk6": "110",
+        "2026-04-03T14:08:49.734Z0.4947799446476957": "s"
       },
       "isStarred": false,
       "userId": "68a9fb395a866b17c663d971",
-      "treeId": "69c3c4b8b55406a8e4c60a1e",
+      "treeId": "69cf8f8855dc4535fa5ff15d",
       "parentIds": [
-        "mn5yb467-y0cif9cac"
+        "mniqf8ue-o8jgn7v3d"
       ],
       "order": [
         1
       ],
-      "createdAt": "2026-03-25T11:19:20.458Z",
-      "updatedAt": "2026-03-25T11:19:20.458Z"
+      "createdAt": "2026-04-03T09:59:36.447Z",
+      "updatedAt": "2026-04-03T09:59:36.447Z"
     },
     {
-      "id": "mn5yb467-v53kk8bf5",
+      "id": "mniqf8ue-ermtuty4o",
       "name": "Exposure 260mJ/cm^2",
       "templateId": "2026-01-09T15:45:54.280Z",
       "data": {
@@ -623,18 +626,18 @@
       },
       "isStarred": false,
       "userId": "68a9fb395a866b17c663d971",
-      "treeId": "69c3c4b8b55406a8e4c60a1e",
+      "treeId": "69cf8f8855dc4535fa5ff15d",
       "parentIds": [
-        "mn5yb467-y0cif9cac"
+        "mniqf8ue-o8jgn7v3d"
       ],
       "order": [
         2
       ],
-      "createdAt": "2026-03-25T11:19:20.458Z",
-      "updatedAt": "2026-03-25T11:19:20.458Z"
+      "createdAt": "2026-04-03T09:59:36.447Z",
+      "updatedAt": "2026-04-03T09:59:36.447Z"
     },
     {
-      "id": "mn5yb467-iglr1xceh",
+      "id": "mniqf8ue-97q3s259w",
       "name": "Development AZ726 60 s",
       "templateId": "2025-08-18T14:27:09.205Z8emtt96",
       "data": {
@@ -645,18 +648,18 @@
       },
       "isStarred": false,
       "userId": "68a9fb395a866b17c663d971",
-      "treeId": "69c3c4b8b55406a8e4c60a1e",
+      "treeId": "69cf8f8855dc4535fa5ff15d",
       "parentIds": [
-        "mn5yb467-y0cif9cac"
+        "mniqf8ue-o8jgn7v3d"
       ],
       "order": [
         3
       ],
-      "createdAt": "2026-03-25T11:19:20.458Z",
-      "updatedAt": "2026-03-25T11:19:20.458Z"
+      "createdAt": "2026-04-03T09:59:36.447Z",
+      "updatedAt": "2026-04-03T09:59:36.447Z"
     },
     {
-      "id": "mn5yb467-0aj52e81t",
+      "id": "mniqf8ue-auz1lv8jd",
       "name": "Cr/Au Deposition",
       "templateId": "2026-01-09T14:22:29.950Z",
       "data": {
@@ -665,18 +668,18 @@
       },
       "isStarred": false,
       "userId": "68a9fb395a866b17c663d971",
-      "treeId": "69c3c4b8b55406a8e4c60a1e",
+      "treeId": "69cf8f8855dc4535fa5ff15d",
       "parentIds": [
-        "mn5yb466-dypsay92f"
+        "mniqf8ue-nykhf0si8"
       ],
       "order": [
         7
       ],
-      "createdAt": "2026-03-25T11:19:20.458Z",
-      "updatedAt": "2026-03-25T11:19:20.458Z"
+      "createdAt": "2026-04-03T09:59:36.447Z",
+      "updatedAt": "2026-04-03T09:59:36.447Z"
     },
     {
-      "id": "mn5yb467-7s03xvq73",
+      "id": "mniqf8ue-enfg2w2ph",
       "name": "Thermal Evaporation",
       "templateId": "2025-08-18T14:27:09.205Zt08pzxx",
       "data": {
@@ -696,18 +699,18 @@
       },
       "isStarred": false,
       "userId": "68a9fb395a866b17c663d971",
-      "treeId": "69c3c4b8b55406a8e4c60a1e",
+      "treeId": "69cf8f8855dc4535fa5ff15d",
       "parentIds": [
-        "mn5yb467-0aj52e81t"
+        "mniqf8ue-auz1lv8jd"
       ],
       "order": [
         0
       ],
-      "createdAt": "2026-03-25T11:19:20.458Z",
-      "updatedAt": "2026-03-25T11:19:20.458Z"
+      "createdAt": "2026-04-03T09:59:36.447Z",
+      "updatedAt": "2026-04-03T09:59:36.447Z"
     },
     {
-      "id": "mn5yb467-7g43pjodf",
+      "id": "mniqf8ue-1fb52aurn",
       "name": "Resist removal AZ Kwik Strip 2 h 70 °C",
       "templateId": "2025-08-18T14:27:09.205Z8emtt96",
       "data": {
@@ -719,18 +722,18 @@
       },
       "isStarred": false,
       "userId": "68a9fb395a866b17c663d971",
-      "treeId": "69c3c4b8b55406a8e4c60a1e",
+      "treeId": "69cf8f8855dc4535fa5ff15d",
       "parentIds": [
-        "mn5yb466-dypsay92f"
+        "mniqf8ue-nykhf0si8"
       ],
       "order": [
         8
       ],
-      "createdAt": "2026-03-25T11:19:20.458Z",
-      "updatedAt": "2026-03-25T11:19:20.458Z"
+      "createdAt": "2026-04-03T09:59:36.447Z",
+      "updatedAt": "2026-04-03T09:59:36.447Z"
     },
     {
-      "id": "mn5yb467-d90b8ceup",
+      "id": "mniqf8ue-83uiuwfki",
       "name": "Sonication 75 % 20 min 20 °C",
       "templateId": "2025-08-18T14:27:09.205Z0h39mc8",
       "data": {
@@ -740,18 +743,18 @@
       },
       "isStarred": false,
       "userId": "68a9fb395a866b17c663d971",
-      "treeId": "69c3c4b8b55406a8e4c60a1e",
+      "treeId": "69cf8f8855dc4535fa5ff15d",
       "parentIds": [
-        "mn5yb467-7g43pjodf"
+        "mniqf8ue-1fb52aurn"
       ],
       "order": [
         0
       ],
-      "createdAt": "2026-03-25T11:19:20.458Z",
-      "updatedAt": "2026-03-25T11:19:20.458Z"
+      "createdAt": "2026-04-03T09:59:36.447Z",
+      "updatedAt": "2026-04-03T09:59:36.447Z"
     },
     {
-      "id": "mn5yb467-s186507we",
+      "id": "mniqf8ue-9pwd1bgxg",
       "name": "Automatic Dicing",
       "templateId": "mk840ej4-0jxd5oo1z",
       "data": {
@@ -759,18 +762,18 @@
       },
       "isStarred": false,
       "userId": "68a9fb395a866b17c663d971",
-      "treeId": "69c3c4b8b55406a8e4c60a1e",
+      "treeId": "69cf8f8855dc4535fa5ff15d",
       "parentIds": [
-        "mn5yb466-dypsay92f"
+        "mniqf8ue-nykhf0si8"
       ],
       "order": [
         9
       ],
-      "createdAt": "2026-03-25T11:19:20.458Z",
-      "updatedAt": "2026-03-25T11:19:20.458Z"
+      "createdAt": "2026-04-03T09:59:36.447Z",
+      "updatedAt": "2026-04-03T09:59:36.447Z"
     },
     {
-      "id": "mn5yb467-t7n3alev4",
+      "id": "mniqf8ue-wrrhm7se6",
       "name": "S1",
       "templateId": "2025-08-18T14:27:09.205Zbm4wrn4",
       "data": {
@@ -781,20 +784,20 @@
       },
       "isStarred": true,
       "userId": "68a9fb395a866b17c663d971",
-      "treeId": "69c3c4b8b55406a8e4c60a1e",
+      "treeId": "69cf8f8855dc4535fa5ff15d",
       "parentIds": [
-        "mn5yb467-s186507we",
-        "mn5yb467-396d6jc5l"
+        "mniqf8ue-9pwd1bgxg",
+        "mniqf8ue-4f7uhjy0e"
       ],
       "order": [
         0,
         0
       ],
-      "createdAt": "2026-03-25T11:19:20.458Z",
-      "updatedAt": "2026-03-25T11:19:20.458Z"
+      "createdAt": "2026-04-03T09:59:36.447Z",
+      "updatedAt": "2026-04-03T09:59:36.447Z"
     },
     {
-      "id": "mn5yb467-ysrpeamdt",
+      "id": "mniqf8ue-pcbsm0ec1",
       "name": "Electrical characterization",
       "templateId": "2025-08-18T14:27:09.205Zql33x9g",
       "data": {
@@ -803,18 +806,18 @@
       },
       "isStarred": false,
       "userId": "68a9fb395a866b17c663d971",
-      "treeId": "69c3c4b8b55406a8e4c60a1e",
+      "treeId": "69cf8f8855dc4535fa5ff15d",
       "parentIds": [
-        "mn5yb467-t7n3alev4"
+        "mniqf8ue-wrrhm7se6"
       ],
       "order": [
         0
       ],
-      "createdAt": "2026-03-25T11:19:20.458Z",
-      "updatedAt": "2026-03-25T11:19:20.458Z"
+      "createdAt": "2026-04-03T09:59:36.447Z",
+      "updatedAt": "2026-04-03T09:59:36.447Z"
     },
     {
-      "id": "mn5yb467-1pdn53pmj",
+      "id": "mniqf8ue-dk619xczm",
       "name": "AMR 4.5 %",
       "templateId": "2025-08-18T14:27:09.205Zspy61an",
       "data": {
@@ -824,18 +827,18 @@
       },
       "isStarred": false,
       "userId": "68a9fb395a866b17c663d971",
-      "treeId": "69c3c4b8b55406a8e4c60a1e",
+      "treeId": "69cf8f8855dc4535fa5ff15d",
       "parentIds": [
-        "mn5yb467-ysrpeamdt"
+        "mniqf8ue-pcbsm0ec1"
       ],
       "order": [
         0
       ],
-      "createdAt": "2026-03-25T11:19:20.458Z",
-      "updatedAt": "2026-03-25T11:19:20.458Z"
+      "createdAt": "2026-04-03T09:59:36.447Z",
+      "updatedAt": "2026-04-03T09:59:36.447Z"
     },
     {
-      "id": "mn5yb467-unu7kc4ss",
+      "id": "mniqf8ue-43saxptaa",
       "name": "S2",
       "templateId": "2025-08-18T14:27:09.205Zbm4wrn4",
       "data": {
@@ -846,18 +849,18 @@
       },
       "isStarred": false,
       "userId": "68a9fb395a866b17c663d971",
-      "treeId": "69c3c4b8b55406a8e4c60a1e",
+      "treeId": "69cf8f8855dc4535fa5ff15d",
       "parentIds": [
-        "mn5yb467-s186507we"
+        "mniqf8ue-9pwd1bgxg"
       ],
       "order": [
         1
       ],
-      "createdAt": "2026-03-25T11:19:20.458Z",
-      "updatedAt": "2026-03-25T11:19:20.458Z"
+      "createdAt": "2026-04-03T09:59:36.447Z",
+      "updatedAt": "2026-04-03T09:59:36.447Z"
     },
     {
-      "id": "mn5yb467-pyxtuqn2o",
+      "id": "mniqf8ue-nbc1hy9jq",
       "name": "S3",
       "templateId": "2025-08-18T14:27:09.205Zbm4wrn4",
       "data": {
@@ -868,18 +871,18 @@
       },
       "isStarred": false,
       "userId": "68a9fb395a866b17c663d971",
-      "treeId": "69c3c4b8b55406a8e4c60a1e",
+      "treeId": "69cf8f8855dc4535fa5ff15d",
       "parentIds": [
-        "mn5yb467-s186507we"
+        "mniqf8ue-9pwd1bgxg"
       ],
       "order": [
         2
       ],
-      "createdAt": "2026-03-25T11:19:20.458Z",
-      "updatedAt": "2026-03-25T11:19:20.458Z"
+      "createdAt": "2026-04-03T09:59:36.447Z",
+      "updatedAt": "2026-04-03T09:59:36.447Z"
     },
     {
-      "id": "mn5yb467-3p6nx5ej5",
+      "id": "mniqf8ue-l0z63rliv",
       "name": "Sample2",
       "templateId": "2025-08-18T14:27:09.205Zbm4wrn4",
       "data": {
@@ -890,18 +893,18 @@
       },
       "isStarred": false,
       "userId": "68a9fb395a866b17c663d971",
-      "treeId": "69c3c4b8b55406a8e4c60a1e",
+      "treeId": "69cf8f8855dc4535fa5ff15d",
       "parentIds": [
-        "mn5yb466-ibdgbuzos"
+        "mniqf8ue-bd0mzca08"
       ],
       "order": [
         1
       ],
-      "createdAt": "2026-03-25T11:19:20.458Z",
-      "updatedAt": "2026-03-25T11:19:20.458Z"
+      "createdAt": "2026-04-03T09:59:36.447Z",
+      "updatedAt": "2026-04-03T09:59:36.447Z"
     },
     {
-      "id": "mn5yb467-x1u4bqyxj",
+      "id": "mniqf8ue-dvkfqrhfu",
       "name": "Resistivity",
       "templateId": "2025-08-18T14:27:09.205Zql33x9g",
       "data": {
@@ -910,18 +913,18 @@
       },
       "isStarred": false,
       "userId": "68a9fb395a866b17c663d971",
-      "treeId": "69c3c4b8b55406a8e4c60a1e",
+      "treeId": "69cf8f8855dc4535fa5ff15d",
       "parentIds": [
-        "mn5yb467-3p6nx5ej5"
+        "mniqf8ue-l0z63rliv"
       ],
       "order": [
         1
       ],
-      "createdAt": "2026-03-25T11:19:20.458Z",
-      "updatedAt": "2026-03-25T11:19:20.458Z"
+      "createdAt": "2026-04-03T09:59:36.447Z",
+      "updatedAt": "2026-04-03T09:59:36.447Z"
     },
     {
-      "id": "mn5yb467-vvwi44afc",
+      "id": "mniqf8ue-1giqmfcg9",
       "name": "Resistivity",
       "templateId": "mmj9gtjf-p7h1miho9",
       "data": {
@@ -1071,18 +1074,18 @@
       },
       "isStarred": false,
       "userId": "68a9fb395a866b17c663d971",
-      "treeId": "69c3c4b8b55406a8e4c60a1e",
+      "treeId": "69cf8f8855dc4535fa5ff15d",
       "parentIds": [
-        "mn5yb467-x1u4bqyxj"
+        "mniqf8ue-dvkfqrhfu"
       ],
       "order": [
         0
       ],
-      "createdAt": "2026-03-25T11:19:20.458Z",
-      "updatedAt": "2026-03-25T11:19:20.458Z"
+      "createdAt": "2026-04-03T09:59:36.447Z",
+      "updatedAt": "2026-04-03T09:59:36.447Z"
     },
     {
-      "id": "mn5yb467-h0n2m9web",
+      "id": "mniqf8ue-ctmkmwkgj",
       "name": "Sheet resistance",
       "templateId": "mk81yf86-6m9saygqd",
       "data": {
@@ -1120,18 +1123,18 @@
       },
       "isStarred": false,
       "userId": "68a9fb395a866b17c663d971",
-      "treeId": "69c3c4b8b55406a8e4c60a1e",
+      "treeId": "69cf8f8855dc4535fa5ff15d",
       "parentIds": [
-        "mn5yb467-vvwi44afc"
+        "mniqf8ue-1giqmfcg9"
       ],
       "order": [
         0
       ],
-      "createdAt": "2026-03-25T11:19:20.458Z",
-      "updatedAt": "2026-03-25T11:19:20.458Z"
+      "createdAt": "2026-04-03T09:59:36.447Z",
+      "updatedAt": "2026-04-03T09:59:36.447Z"
     },
     {
-      "id": "mn5yb467-396d6jc5l",
+      "id": "mniqf8ue-4f7uhjy0e",
       "name": "Sample tray",
       "templateId": "2025-08-18T14:27:09.205Z2uet3xb",
       "data": {
@@ -1139,16 +1142,16 @@
       },
       "isStarred": false,
       "userId": "68a9fb395a866b17c663d971",
-      "treeId": "69c3c4b8b55406a8e4c60a1e",
+      "treeId": "69cf8f8855dc4535fa5ff15d",
       "parentIds": [],
       "order": [
         2
       ],
-      "createdAt": "2026-03-25T11:19:20.458Z",
-      "updatedAt": "2026-03-25T11:19:20.458Z"
+      "createdAt": "2026-04-03T09:59:36.447Z",
+      "updatedAt": "2026-04-03T09:59:36.447Z"
     },
     {
-      "id": "mn5yb467-ngoivfp3l",
+      "id": "mniqf8ue-m74pdqupk",
       "name": "Available diced samples",
       "templateId": "ml6zto5a-jnnowv02j",
       "data": {
@@ -1176,13 +1179,13 @@
       },
       "isStarred": false,
       "userId": "68a9fb395a866b17c663d971",
-      "treeId": "69c3c4b8b55406a8e4c60a1e",
+      "treeId": "69cf8f8855dc4535fa5ff15d",
       "parentIds": [],
       "order": [
         3
       ],
-      "createdAt": "2026-03-25T11:19:20.458Z",
-      "updatedAt": "2026-03-25T11:19:20.458Z"
+      "createdAt": "2026-04-03T09:59:36.447Z",
+      "updatedAt": "2026-04-03T09:59:36.447Z"
     }
   ],
   "templates": [
@@ -1590,6 +1593,8 @@
       "name": "Thermal treatment",
       "icon": "Flame",
       "color": "#FF5A3C",
+      "nameTemplate": "{Type} {Temperature} {Time} {Time unit}",
+      "bodyTemplate": "",
       "fields": [
         {
           "id": "2025-08-18T14:27:09.205Zfubrk1z",
@@ -1612,14 +1617,22 @@
         },
         {
           "id": "2025-08-18T14:27:09.205Zmuuetk6",
-          "name": "Duration",
+          "name": "Time",
           "type": "number",
           "options": [],
-          "postfix": " s"
+          "postfix": ""
+        },
+        {
+          "id": "2026-04-03T14:08:49.734Z0.4947799446476957",
+          "name": "Time unit",
+          "type": "dropdown",
+          "options": [
+            "s",
+            "m",
+            "h"
+          ]
         }
       ],
-      "nameTemplate": "{Type} {Temperature} {Duration}",
-      "bodyTemplate": "",
       "conditionalRules": [],
       "preferredChildTemplates": [
         "2025-08-18T14:27:09.205Z2nqu2su"
@@ -1989,8 +2002,6 @@
       "name": "Sputtering",
       "icon": "CirclePlus",
       "color": "#53d0aa",
-      "nameTemplate": "Sputtering",
-      "bodyTemplate": "",
       "fields": [
         {
           "id": "2025-10-27T09:01:04.834Z0.5646942305978848",
@@ -2072,9 +2083,12 @@
         {
           "id": "2026-04-01T13:06:05.444Z0.2388351580908753",
           "name": "Logs",
-          "type": "attachment"
+          "type": "attachment",
+          "options": []
         }
       ],
+      "nameTemplate": "Sputtering",
+      "bodyTemplate": "",
       "conditionalRules": [],
       "preferredChildTemplates": []
     },
@@ -2342,9 +2356,9 @@
     }
   ],
   "rootNodeIds": [
-    "mn5yb466-d6ut5wjtr",
-    "mn5yb466-ibdgbuzos",
-    "mn5yb467-396d6jc5l",
-    "mn5yb467-ngoivfp3l"
+    "mniqf8ue-g1up620i2",
+    "mniqf8ue-bd0mzca08",
+    "mniqf8ue-4f7uhjy0e",
+    "mniqf8ue-m74pdqupk"
   ]
 }
