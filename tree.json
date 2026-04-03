@@ -1396,6 +1396,8 @@
       "name": "Lithography",
       "icon": "Pencil",
       "color": "#F0C33A",
+      "nameTemplate": "{Type} Lithography",
+      "bodyTemplate": "{Date}",
       "fields": [
         {
           "id": "2026-01-10T09:17:50.895Z0.6273317140214377",
@@ -1413,14 +1415,14 @@
           ]
         }
       ],
-      "nameTemplate": "{Type} Lithography",
-      "bodyTemplate": "{Date}",
       "conditionalRules": [],
       "preferredChildTemplates": [
         "2025-08-18T14:27:09.205Zavevifg",
         "2025-08-18T14:27:09.205Z7selmn3",
         "2025-08-18T14:27:09.205Z8emtt96",
         "2026-01-09T15:45:54.280Z",
+        "mk8ueoq8-i362m1e4d",
+        "mnisqbqi-mzmlevff3",
         "2025-08-18T14:27:09.205Z8zdhpuf",
         "mkgs17y4-vjuhfcwui"
       ]
@@ -1719,6 +1721,32 @@
       ],
       "nameTemplate": "Exposure {Power} {Filter}",
       "bodyTemplate": "Defoc: {Defoc}",
+      "conditionalRules": [],
+      "preferredChildTemplates": []
+    },
+    {
+      "id": "mnisqbqi-mzmlevff3",
+      "name": "Optical exposure (Mask aligner)",
+      "icon": "Lightbulb",
+      "color": "#D9B400",
+      "fields": [
+        {
+          "id": "2026-01-09T15:44:48.327Z0.7312514064177615",
+          "name": "Time",
+          "type": "number",
+          "options": [],
+          "postfix": " s"
+        },
+        {
+          "id": "2026-01-09T15:36:09.927Z0.5652506569330059",
+          "name": "Dose",
+          "type": "number",
+          "options": [],
+          "postfix": " mJ/cm^2"
+        }
+      ],
+      "nameTemplate": "Exposure {Dose}",
+      "bodyTemplate": "TIme: {Time}",
       "conditionalRules": [],
       "preferredChildTemplates": []
     },
